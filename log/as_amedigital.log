@@ -1,0 +1,667 @@
+2023-05-08 09:44:11: AS 11276: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:44:11: AS 11276: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:44:11: AS 11276: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:44:11: AS 11276: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:44:11: AS 11276: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:44:11: AS 11276: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:44:11: AS 11276: WARN: Prazo expira em: 2 dias
+2023-05-08 09:44:11: AS 11276: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:44:11: AS 11276: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:44:12: AS 11276: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:44:12: AS 11276: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:44:13: AS 11276: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:44:13: AS 11276: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:44:13: AS 11276: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:44:13: AS 11276: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:44:14: AS 11276: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:44:14: AS 11276: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:44:14: AS 11276: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:44:14: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 09:44:14: AS 11276: INFO: Buscando informação de versão mínima...
+2023-05-08 09:44:14: AS 11276: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 09:44:14: AS 11276: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 09:44:14: AS 11276: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 1 - POSTO_TESTE_1
+2023-05-08 09:46:23: AS 6300: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:46:23: AS 6300: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:46:23: AS 6300: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:46:23: AS 6300: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:46:23: AS 6300: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:46:23: AS 6300: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:46:23: AS 6300: WARN: Prazo expira em: 2 dias
+2023-05-08 09:46:23: AS 6300: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:46:23: AS 6300: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:46:24: AS 6300: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:46:24: AS 6300: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:46:24: AS 6300: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:46:24: AS 6300: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:46:24: AS 6300: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:46:24: AS 6300: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:46:25: AS 6300: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:46:25: AS 6300: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:46:25: AS 6300: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:46:25: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 09:46:26: AS 6300: INFO: Buscando informação de versão mínima...
+2023-05-08 09:46:26: AS 6300: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 09:46:26: AS 6300: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 09:46:26: AS 6300: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 1 - POSTO_TESTE_1
+2023-05-08 09:47:44: AS 920: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:47:44: AS 920: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:47:44: AS 920: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:47:44: AS 920: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:47:44: AS 920: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:47:44: AS 920: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:47:44: AS 920: WARN: Prazo expira em: 2 dias
+2023-05-08 09:47:44: AS 920: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:47:44: AS 920: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:47:45: AS 920: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:47:45: AS 920: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:47:45: AS 920: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:47:45: AS 920: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:47:45: AS 920: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:47:45: AS 920: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:47:46: AS 920: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:47:46: AS 920: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:47:46: AS 920: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:47:46: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 09:47:47: AS 920: INFO: Buscando informação de versão mínima...
+2023-05-08 09:47:47: AS 920: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 09:47:47: AS 920: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 09:47:47: AS 920: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 09:56:32: AS 13944: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:56:32: AS 13944: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:56:32: AS 13944: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:56:32: AS 13944: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:56:32: AS 13944: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:56:32: AS 13944: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:56:32: AS 13944: WARN: Prazo expira em: 2 dias
+2023-05-08 09:56:32: AS 13944: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:56:32: AS 13944: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:33: AS 13944: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:33: AS 13944: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:33: AS 13944: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:33: AS 13944: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:56:33: AS 13944: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:56:33: AS 13944: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:34: AS 13944: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:34: AS 13944: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:35: AS 13944: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:35: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 09:56:35: AS 13944: INFO: Buscando informação de versão mínima...
+2023-05-08 09:56:35: AS 13944: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 09:56:35: AS 13944: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 09:56:35: AS 13944: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 10:02:10: AS 184: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:02:10: AS 184: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:02:10: AS 184: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:02:10: AS 184: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:02:10: AS 184: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:02:10: AS 184: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:02:10: AS 184: WARN: Prazo expira em: 2 dias
+2023-05-08 10:02:10: AS 184: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:02:10: AS 184: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:02:11: AS 184: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:02:11: AS 184: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:02:12: AS 184: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:02:12: AS 184: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:02:12: AS 184: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:02:12: AS 184: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:02:12: AS 184: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:02:12: AS 184: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:02:13: AS 184: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:02:13: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 10:02:13: AS 184: INFO: Buscando informação de versão mínima...
+2023-05-08 10:02:13: AS 184: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 10:02:13: AS 184: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 10:02:13: AS 184: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 10:40:50: AS 8460: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:40:50: AS 8460: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:40:50: AS 8460: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:40:50: AS 8460: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:40:50: AS 8460: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:40:50: AS 8460: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:40:50: AS 8460: WARN: Prazo expira em: 2 dias
+2023-05-08 10:40:50: AS 8460: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:40:50: AS 8460: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:40:51: AS 8460: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:40:51: AS 8460: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:40:51: AS 8460: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:40:51: AS 8460: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:40:51: AS 8460: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:40:51: AS 8460: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:40:52: AS 8460: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:40:52: AS 8460: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:40:53: AS 8460: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:40:53: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 10:40:53: AS 8460: INFO: Buscando informação de versão mínima...
+2023-05-08 10:40:53: AS 8460: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 10:40:53: AS 8460: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 10:40:53: AS 8460: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 10:42:59: AS 16368: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:42:59: AS 16368: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:42:59: AS 16368: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:43:00: AS 16368: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:43:00: AS 16368: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:43:00: AS 16368: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:43:00: AS 16368: WARN: Prazo expira em: 2 dias
+2023-05-08 10:43:00: AS 16368: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:00: AS 16368: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:00: AS 16368: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:00: AS 16368: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:01: AS 16368: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:01: AS 16368: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:43:01: AS 16368: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:01: AS 16368: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:02: AS 16368: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:02: AS 16368: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:02: AS 16368: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:02: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 10:43:02: AS 16368: INFO: Buscando informação de versão mínima...
+2023-05-08 10:43:03: AS 16368: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 10:43:03: AS 16368: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 10:43:03: AS 16368: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 10:44:46: AS 21640: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:44:46: AS 21640: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:44:46: AS 21640: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:44:46: AS 21640: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:44:46: AS 21640: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:44:46: AS 21640: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:44:46: AS 21640: WARN: Prazo expira em: 2 dias
+2023-05-08 10:44:46: AS 21640: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:44:47: AS 21640: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:44:47: AS 21640: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:44:47: AS 21640: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:44:48: AS 21640: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:44:48: AS 21640: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:44:48: AS 21640: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:44:48: AS 21640: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:44:49: AS 21640: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:44:49: AS 21640: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:44:49: AS 21640: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:44:49: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 10:44:49: AS 21640: INFO: Buscando informação de versão mínima...
+2023-05-08 10:44:50: AS 21640: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 10:44:50: AS 21640: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 10:44:50: AS 21640: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 11:44:49: AS 18424: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:44:49: AS 18424: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:44:49: AS 18424: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:44:49: AS 18424: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:44:49: AS 18424: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:44:49: AS 18424: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:44:49: AS 18424: WARN: Prazo expira em: 2 dias
+2023-05-08 11:44:49: AS 18424: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:44:49: AS 18424: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:44:50: AS 18424: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:44:50: AS 18424: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:44:50: AS 18424: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:44:50: AS 18424: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:44:50: AS 18424: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:44:50: AS 18424: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:44:51: AS 18424: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:44:51: AS 18424: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:44:51: AS 18424: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:44:51: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 11:44:52: AS 18424: INFO: Buscando informação de versão mínima...
+2023-05-08 11:44:52: AS 18424: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 11:44:52: AS 18424: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 11:44:52: AS 18424: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 11:48:38: AS 23296: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:48:38: AS 23296: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:48:38: AS 23296: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:48:38: AS 23296: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:48:38: AS 23296: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:48:38: AS 23296: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:48:38: AS 23296: WARN: Prazo expira em: 2 dias
+2023-05-08 11:48:38: AS 23296: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:48:38: AS 23296: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:48:39: AS 23296: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:48:39: AS 23296: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:48:39: AS 23296: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:48:39: AS 23296: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:48:39: AS 23296: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:48:39: AS 23296: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:48:40: AS 23296: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:48:40: AS 23296: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:48:40: AS 23296: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:48:41: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 11:48:41: AS 23296: INFO: Buscando informação de versão mínima...
+2023-05-08 11:48:41: AS 23296: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 11:48:41: AS 23296: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 11:48:41: AS 23296: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 11:52:35: AS 18336: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:52:35: AS 18336: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:52:35: AS 18336: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:52:35: AS 18336: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:52:35: AS 18336: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:52:35: AS 18336: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:52:35: AS 18336: WARN: Prazo expira em: 2 dias
+2023-05-08 11:52:35: AS 18336: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:52:35: AS 18336: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:52:36: AS 18336: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:52:36: AS 18336: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:52:36: AS 18336: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:52:36: AS 18336: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:52:36: AS 18336: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:52:36: AS 18336: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:52:37: AS 18336: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:52:37: AS 18336: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:52:37: AS 18336: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:52:37: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 11:52:38: AS 18336: INFO: Buscando informação de versão mínima...
+2023-05-08 11:52:38: AS 18336: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 11:52:38: AS 18336: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 11:52:38: AS 18336: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 13:34:06: AS 16188: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:34:06: AS 16188: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:34:06: AS 16188: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:34:06: AS 16188: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:34:06: AS 16188: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:34:06: AS 16188: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:34:06: AS 16188: WARN: Prazo expira em: 2 dias
+2023-05-08 13:34:06: AS 16188: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:34:06: AS 16188: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:34:07: AS 16188: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:34:07: AS 16188: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:34:08: AS 16188: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:34:08: AS 16188: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:34:08: AS 16188: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:34:08: AS 16188: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:34:08: AS 16188: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:34:08: AS 16188: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:34:09: AS 16188: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:34:09: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 13:34:09: AS 16188: INFO: Buscando informação de versão mínima...
+2023-05-08 13:34:09: AS 16188: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 13:34:09: AS 16188: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 13:34:09: AS 16188: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 13:36:58: AS 22948: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:36:58: AS 22948: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:36:58: AS 22948: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:36:58: AS 22948: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:36:58: AS 22948: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:36:58: AS 22948: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:36:58: AS 22948: WARN: Prazo expira em: 2 dias
+2023-05-08 13:36:58: AS 22948: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:36:58: AS 22948: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:36:59: AS 22948: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:36:59: AS 22948: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:37:00: AS 22948: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:37:00: AS 22948: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:37:00: AS 22948: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:37:00: AS 22948: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:37:01: AS 22948: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:37:01: AS 22948: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:37:01: AS 22948: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:37:01: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 13:37:01: AS 22948: INFO: Buscando informação de versão mínima...
+2023-05-08 13:37:02: AS 22948: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 13:37:02: AS 22948: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 13:37:02: AS 22948: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 13:40:20: AS 14092: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:40:20: AS 14092: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:40:20: AS 14092: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:40:20: AS 14092: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:40:20: AS 14092: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:40:20: AS 14092: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:40:20: AS 14092: WARN: Prazo expira em: 2 dias
+2023-05-08 13:40:20: AS 14092: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:21: AS 14092: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:21: AS 14092: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:21: AS 14092: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:22: AS 14092: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:22: AS 14092: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:40:22: AS 14092: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:22: AS 14092: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:23: AS 14092: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:23: AS 14092: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:23: AS 14092: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:23: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 13:40:23: AS 14092: INFO: Buscando informação de versão mínima...
+2023-05-08 13:40:24: AS 14092: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 13:40:24: AS 14092: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 13:40:24: AS 14092: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 13:46:29: AS 20948: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:46:29: AS 20948: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:46:29: AS 20948: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:46:29: AS 20948: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:46:29: AS 20948: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:46:29: AS 20948: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:46:29: AS 20948: WARN: Prazo expira em: 2 dias
+2023-05-08 13:46:29: AS 20948: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:29: AS 20948: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:30: AS 20948: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:30: AS 20948: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:30: AS 20948: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:30: AS 20948: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:46:30: AS 20948: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:31: AS 20948: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:31: AS 20948: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:31: AS 20948: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:32: AS 20948: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:32: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 13:46:32: AS 20948: INFO: Buscando informação de versão mínima...
+2023-05-08 13:46:32: AS 20948: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 13:46:32: AS 20948: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 13:46:32: AS 20948: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 13:54:52: AS 18028: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:54:52: AS 18028: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:54:52: AS 18028: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:54:52: AS 18028: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:54:52: AS 18028: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:54:52: AS 18028: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:54:52: AS 18028: WARN: Prazo expira em: 2 dias
+2023-05-08 13:54:52: AS 18028: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:54:52: AS 18028: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:54:53: AS 18028: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:54:53: AS 18028: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:54:53: AS 18028: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:54:53: AS 18028: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:54:53: AS 18028: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:54:54: AS 18028: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:54:54: AS 18028: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:54:54: AS 18028: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:54:55: AS 18028: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:54:55: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 13:54:55: AS 18028: INFO: Buscando informação de versão mínima...
+2023-05-08 13:54:55: AS 18028: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 13:54:55: AS 18028: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 13:54:55: AS 18028: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:05:23: AS 19792: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:05:23: AS 19792: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:05:23: AS 19792: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:05:23: AS 19792: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:05:23: AS 19792: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:05:23: AS 19792: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:05:23: AS 19792: WARN: Prazo expira em: 2 dias
+2023-05-08 14:05:23: AS 19792: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:05:24: AS 19792: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:05:25: AS 19792: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:05:25: AS 19792: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:05:25: AS 19792: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:05:25: AS 19792: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:05:25: AS 19792: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:05:25: AS 19792: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:05:26: AS 19792: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:05:26: AS 19792: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:05:26: AS 19792: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:05:26: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:05:27: AS 19792: INFO: Buscando informação de versão mínima...
+2023-05-08 14:05:27: AS 19792: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:05:27: AS 19792: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:05:27: AS 19792: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:15:48: AS 9180: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:15:48: AS 9180: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:15:48: AS 9180: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:15:48: AS 9180: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:15:48: AS 9180: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:15:48: AS 9180: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:15:48: AS 9180: WARN: Prazo expira em: 2 dias
+2023-05-08 14:15:48: AS 9180: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:15:48: AS 9180: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:15:49: AS 9180: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:15:49: AS 9180: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:15:49: AS 9180: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:15:49: AS 9180: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:15:49: AS 9180: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:15:49: AS 9180: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:15:50: AS 9180: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:15:50: AS 9180: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:15:51: AS 9180: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:15:51: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:15:51: AS 9180: INFO: Buscando informação de versão mínima...
+2023-05-08 14:15:51: AS 9180: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:15:51: AS 9180: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:15:51: AS 9180: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:24:53: AS 1920: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:24:53: AS 1920: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:24:53: AS 1920: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:24:53: AS 1920: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:24:53: AS 1920: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:24:53: AS 1920: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:24:53: AS 1920: WARN: Prazo expira em: 2 dias
+2023-05-08 14:24:53: AS 1920: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:24:53: AS 1920: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:24:54: AS 1920: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:24:54: AS 1920: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:24:54: AS 1920: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:24:54: AS 1920: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:24:54: AS 1920: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:24:54: AS 1920: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:24:55: AS 1920: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:24:55: AS 1920: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:24:55: AS 1920: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:24:55: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:24:56: AS 1920: INFO: Buscando informação de versão mínima...
+2023-05-08 14:24:56: AS 1920: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:24:56: AS 1920: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:24:56: AS 1920: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:26:33: AS 18440: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:26:33: AS 18440: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:26:33: AS 18440: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:26:33: AS 18440: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:26:33: AS 18440: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:26:33: AS 18440: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:26:33: AS 18440: WARN: Prazo expira em: 2 dias
+2023-05-08 14:26:33: AS 18440: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:26:33: AS 18440: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:26:34: AS 18440: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:26:34: AS 18440: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:26:34: AS 18440: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:26:34: AS 18440: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:26:34: AS 18440: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:26:35: AS 18440: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:26:35: AS 18440: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:26:35: AS 18440: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:26:36: AS 18440: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:26:36: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:26:36: AS 18440: INFO: Buscando informação de versão mínima...
+2023-05-08 14:26:36: AS 18440: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:26:36: AS 18440: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:26:36: AS 18440: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:31:54: AS 21056: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:31:54: AS 21056: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:31:54: AS 21056: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:31:54: AS 21056: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:31:54: AS 21056: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:31:54: AS 21056: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:31:54: AS 21056: WARN: Prazo expira em: 2 dias
+2023-05-08 14:31:54: AS 21056: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:55: AS 21056: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:55: AS 21056: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:55: AS 21056: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:56: AS 21056: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:56: AS 21056: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:31:56: AS 21056: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:56: AS 21056: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:57: AS 21056: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:57: AS 21056: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:57: AS 21056: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:57: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:31:57: AS 21056: INFO: Buscando informação de versão mínima...
+2023-05-08 14:31:58: AS 21056: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:31:58: AS 21056: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:31:58: AS 21056: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:34:22: AS 22652: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:34:22: AS 22652: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:34:22: AS 22652: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:34:22: AS 22652: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:34:22: AS 22652: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:34:22: AS 22652: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:34:22: AS 22652: WARN: Prazo expira em: 2 dias
+2023-05-08 14:34:22: AS 22652: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:22: AS 22652: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:22: AS 22652: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:22: AS 22652: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:23: AS 22652: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:23: AS 22652: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:34:23: AS 22652: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:23: AS 22652: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:24: AS 22652: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:24: AS 22652: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:24: AS 22652: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:24: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:34:25: AS 22652: INFO: Buscando informação de versão mínima...
+2023-05-08 14:34:25: AS 22652: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:34:25: AS 22652: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:34:25: AS 22652: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:37:12: AS 21888: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:37:12: AS 21888: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:37:12: AS 21888: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:37:12: AS 21888: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:37:12: AS 21888: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:37:12: AS 21888: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:37:12: AS 21888: WARN: Prazo expira em: 2 dias
+2023-05-08 14:37:12: AS 21888: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:37:12: AS 21888: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:37:13: AS 21888: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:37:13: AS 21888: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:37:13: AS 21888: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:37:13: AS 21888: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:37:13: AS 21888: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:37:13: AS 21888: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:37:14: AS 21888: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:37:14: AS 21888: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:37:14: AS 21888: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:37:14: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:37:14: AS 21888: INFO: Buscando informação de versão mínima...
+2023-05-08 14:37:15: AS 21888: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:37:15: AS 21888: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:37:15: AS 21888: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:48:48: AS 16076: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:48:48: AS 16076: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:48:48: AS 16076: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:48:48: AS 16076: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:48:48: AS 16076: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:48:48: AS 16076: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:48:48: AS 16076: WARN: Prazo expira em: 2 dias
+2023-05-08 14:48:48: AS 16076: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:48:48: AS 16076: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:48:49: AS 16076: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:48:49: AS 16076: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:48:49: AS 16076: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:48:49: AS 16076: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:48:49: AS 16076: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:48:49: AS 16076: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:48:50: AS 16076: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:48:50: AS 16076: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:48:50: AS 16076: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:48:50: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:48:51: AS 16076: INFO: Buscando informação de versão mínima...
+2023-05-08 14:48:51: AS 16076: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:48:51: AS 16076: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:48:51: AS 16076: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 14:51:24: AS 12688: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:51:24: AS 12688: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:51:24: AS 12688: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:51:24: AS 12688: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:51:24: AS 12688: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:51:24: AS 12688: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:51:24: AS 12688: WARN: Prazo expira em: 2 dias
+2023-05-08 14:51:24: AS 12688: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:51:24: AS 12688: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:51:25: AS 12688: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:51:25: AS 12688: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:51:25: AS 12688: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:51:25: AS 12688: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:51:25: AS 12688: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:51:26: AS 12688: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:51:26: AS 12688: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:51:26: AS 12688: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:51:27: AS 12688: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:51:27: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 14:51:27: AS 12688: INFO: Buscando informação de versão mínima...
+2023-05-08 14:51:27: AS 12688: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 14:51:27: AS 12688: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 14:51:27: AS 12688: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 15:04:32: AS 13400: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:04:32: AS 13400: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:04:32: AS 13400: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:04:32: AS 13400: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:04:32: AS 13400: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:04:32: AS 13400: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:04:32: AS 13400: WARN: Prazo expira em: 2 dias
+2023-05-08 15:04:32: AS 13400: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:04:32: AS 13400: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:04:33: AS 13400: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:04:33: AS 13400: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:04:33: AS 13400: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:04:33: AS 13400: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:04:33: AS 13400: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:04:33: AS 13400: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:04:34: AS 13400: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:04:34: AS 13400: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:04:34: AS 13400: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:04:34: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 15:04:34: AS 13400: INFO: Buscando informação de versão mínima...
+2023-05-08 15:04:35: AS 13400: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 15:04:35: AS 13400: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 15:04:35: AS 13400: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 15:16:31: AS 2916: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:16:31: AS 2916: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:16:31: AS 2916: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:16:31: AS 2916: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:16:31: AS 2916: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:16:31: AS 2916: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:16:31: AS 2916: WARN: Prazo expira em: 2 dias
+2023-05-08 15:16:31: AS 2916: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:16:31: AS 2916: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:16:32: AS 2916: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:16:32: AS 2916: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:16:32: AS 2916: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:16:32: AS 2916: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:16:32: AS 2916: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:16:32: AS 2916: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:16:33: AS 2916: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:16:33: AS 2916: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:16:33: AS 2916: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:16:33: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 15:16:34: AS 2916: INFO: Buscando informação de versão mínima...
+2023-05-08 15:16:34: AS 2916: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 15:16:34: AS 2916: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 15:16:34: AS 2916: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 15:28:14: AS 2600: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:28:14: AS 2600: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:28:15: AS 2600: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:28:15: AS 2600: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:28:15: AS 2600: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:28:15: AS 2600: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:28:15: AS 2600: WARN: Prazo expira em: 2 dias
+2023-05-08 15:28:15: AS 2600: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:28:15: AS 2600: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:28:15: AS 2600: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:28:15: AS 2600: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:28:16: AS 2600: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:28:16: AS 2600: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:28:16: AS 2600: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:28:16: AS 2600: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:28:16: AS 2600: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:28:16: AS 2600: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:28:17: AS 2600: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:28:17: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 15:28:17: AS 2600: INFO: Buscando informação de versão mínima...
+2023-05-08 15:28:17: AS 2600: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 15:28:17: AS 2600: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 15:28:17: AS 2600: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS
+2023-05-08 15:42:13: AS 10496: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:42:13: AS 10496: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:42:13: AS 10496: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:42:13: AS 10496: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:42:13: AS 10496: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:42:13: AS 10496: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:42:13: AS 10496: WARN: Prazo expira em: 2 dias
+2023-05-08 15:42:13: AS 10496: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:42:13: AS 10496: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:42:13: AS 10496: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:42:13: AS 10496: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:42:14: AS 10496: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:42:14: AS 10496: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:42:14: AS 10496: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:42:14: AS 10496: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:42:15: AS 10496: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:42:15: AS 10496: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:42:15: AS 10496: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:42:15: USER: INFO: Informações de super-usuario carregadas
+2023-05-08 15:42:15: AS 10496: INFO: Buscando informação de versão mínima...
+2023-05-08 15:42:15: AS 10496: INFO: AME DIGITAL -> Validando requisitos para iniciar o serviço...
+2023-05-08 15:42:15: AS 10496: INFO: Serviço de Integração Ame Digital finalizado.
+2023-05-08 15:42:15: AS 10496: ERROR: AME DIGITAL -> Usuário e Token não cadastrado ou módulo não está ativo na empresa: 2 - POSTO_TESTE_DOIS

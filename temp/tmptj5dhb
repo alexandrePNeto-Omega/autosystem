@@ -1,0 +1,19 @@
+HTTP/1.1 422 Unprocessable Entity
+Date: Mon, 08 May 2023 12:43:10 GMT
+Content-Type: application/json
+Content-Length: 395
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Authorization
+Cache-Control: no-store
+Pragma: no-cache
+X-Frame-Options: deny
+X-XSS-Protection: 1
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Expect-CT: max-age=2592000
+Server: akka-http/10.1.5
+Kong-Request-ID: 2be22509-4320-4e26-9011-19e13599015a
+X-Kong-Upstream-Latency: 6
+X-Kong-Proxy-Latency: 0
+

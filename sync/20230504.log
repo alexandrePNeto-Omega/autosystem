@@ -1,0 +1,1456 @@
+-------------------------
+2023-05-04 13:25
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13162) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13162Lgrupo: 192Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001CC8E20C8CF7D66A94F34F98C9AC5E9A8D3'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5009Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:41.760248'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 13:25
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13163) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13163Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V00141FDF467E6CAA9E1D2CB0684B3EE965928'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5010Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13162Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 13:25
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13166) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13166Lgrupo: 192Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5013Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto: 13162Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 13:25
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13170) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 3codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13170Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5017Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:12:26.786804'produto: 10781Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 13:25
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13171) already exists.
+
+
+codigo: 1Lempresa: 12977Lfabricante: 11700Lgrid: 13171Lmodelo: '15.000'nr_serie: '15648789'pgd_flow_flag: 'N'pgd_gfid: 5018Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:05'tipo: 1
+-------------------------
+2023-05-04 13:25
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13172) already exists.
+
+
+bomba: 13171Lctf: Falsedeposito: 13170Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13172Lilha: Nonenome: '1'pgd_flow_flag: 'N'pgd_gfid: 5019Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:51.100978'tipo_preco: 1
+-------------------------
+2023-05-04 13:30
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13162) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13162Lgrupo: 192Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001CC8E20C8CF7D66A94F34F98C9AC5E9A8D3'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5009Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:41.760248'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 13:30
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13163) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13163Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V00141FDF467E6CAA9E1D2CB0684B3EE965928'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5010Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13162Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 13:30
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13166) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13166Lgrupo: 192Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5013Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto: 13162Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 13:30
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13170) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 3codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13170Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5017Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:12:26.786804'produto: 10781Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 13:30
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13171) already exists.
+
+
+codigo: 1Lempresa: 12977Lfabricante: 11700Lgrid: 13171Lmodelo: '15.000'nr_serie: '15648789'pgd_flow_flag: 'N'pgd_gfid: 5018Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:05'tipo: 1
+-------------------------
+2023-05-04 13:30
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13172) already exists.
+
+
+bomba: 13171Lctf: Falsedeposito: 13170Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13172Lilha: Nonenome: '1'pgd_flow_flag: 'N'pgd_gfid: 5019Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:51.100978'tipo_preco: 1
+-------------------------
+2023-05-04 13:30
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13173) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13173Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001A0449A679562D20AEBCE719464FB3FB4A9'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5024Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:22:48'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 12892Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 13:30
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13176) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13176Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V0017F3B94791DDCF62AC4996A647E3D82CA0F'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5029Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:23:12'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 10781Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13162) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13162Lgrupo: 192Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001CC8E20C8CF7D66A94F34F98C9AC5E9A8D3'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5009Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:41.760248'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13163) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13163Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V00141FDF467E6CAA9E1D2CB0684B3EE965928'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5010Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13162Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13166) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13166Lgrupo: 192Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5013Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto: 13162Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 14:29
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13170) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 3codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13170Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5017Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:12:26.786804'produto: 10781Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 14:29
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13171) already exists.
+
+
+codigo: 1Lempresa: 12977Lfabricante: 11700Lgrid: 13171Lmodelo: '15.000'nr_serie: '15648789'pgd_flow_flag: 'N'pgd_gfid: 5018Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:05'tipo: 1
+-------------------------
+2023-05-04 14:29
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13172) already exists.
+
+
+bomba: 13171Lctf: Falsedeposito: 13170Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13172Lilha: Nonenome: '1'pgd_flow_flag: 'N'pgd_gfid: 5019Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:51.100978'tipo_preco: 1
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13173) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13173Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001A0449A679562D20AEBCE719464FB3FB4A9'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5024Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:22:48'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 12892Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13176) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13176Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V0017F3B94791DDCF62AC4996A647E3D82CA0F'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5029Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:23:12'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 10781Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13183) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13183Lgrupo: 10754Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001445DD3E2BFA3662D1602232435B0479C80'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5042Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04.417438'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13184) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13184Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001CCEC5FC8400715ADD14694A19070B8B8FD'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5043Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13183Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 14:29
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13187) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13187Lgrupo: 10754Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5046Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto: 13183Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13162) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13162Lgrupo: 192Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001CC8E20C8CF7D66A94F34F98C9AC5E9A8D3'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5009Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:41.760248'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13163) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13163Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V00141FDF467E6CAA9E1D2CB0684B3EE965928'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5010Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13162Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13166) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13166Lgrupo: 192Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5013Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto: 13162Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13170) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 3codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13170Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5017Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:12:26.786804'produto: 10781Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13171) already exists.
+
+
+codigo: 1Lempresa: 12977Lfabricante: 11700Lgrid: 13171Lmodelo: '15.000'nr_serie: '15648789'pgd_flow_flag: 'N'pgd_gfid: 5018Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:05'tipo: 1
+-------------------------
+2023-05-04 15:54
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13172) already exists.
+
+
+bomba: 13171Lctf: Falsedeposito: 13170Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13172Lilha: Nonenome: '1'pgd_flow_flag: 'N'pgd_gfid: 5019Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:51.100978'tipo_preco: 1
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13173) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13173Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001A0449A679562D20AEBCE719464FB3FB4A9'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5024Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:22:48'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 12892Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13176) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13176Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V0017F3B94791DDCF62AC4996A647E3D82CA0F'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5029Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:23:12'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 10781Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13183) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13183Lgrupo: 10754Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001445DD3E2BFA3662D1602232435B0479C80'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5042Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04.417438'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13184) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13184Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001CCEC5FC8400715ADD14694A19070B8B8FD'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5043Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13183Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13187) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13187Lgrupo: 10754Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5046Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto: 13183Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Trueexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 03'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5065Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:08:54.709076'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 03'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5066Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:08:58.662868'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 672, in recv_table_update
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5068Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'Un'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:10:11.315454'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13198) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13198Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02'pai: ''pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5073Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:12:45.424144'programacao: Falsesaldo_inicial: Nonesaldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13201) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.50'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13201Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 3'pai: ''pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5076Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:14:37.49652'programacao: Falsesaldo_inicial: Nonesaldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13202) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 4codigo_medidor: ''departamento: Noneempresa: 13059Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13202Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 1'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5077Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:19:07.708306'produto: 13162Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'pessoa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "pessoa_pkey"
+DETAIL:  Key (grid)=(13203) already exists.
+
+
+amex: Falsebairro: 'VILA NOVA CANA\xe3'bairro_c: ''bairro_grid: Nonebloqueado: Falsebloqueia_cheque_terceiro: Falsebloqueia_emissao_vale_refeicao: Nonebloqueia_geracao_ponto: Nonebloqueia_nota: Falsebrinde: Falsecargo: Nonecartao_ag: Nonecarteira_trabalho: Nonecelular: ''cep: '74.415-250'cep_c: ''cidade: 'CURITIBA'cidade_c: ''ciencia_manifestacao_auto: Falsecliente_dias_tolerancia: Nonecliente_marka: Nonecnae: Nonecod_restituicao: Nonecodigo: 1007complemento: ''conceito: Noneconsulta_saldo_offline_ie: Falsecontador: Nonecontato: ''contato_c: ''convenio: Nonecpf: '97.561.019/0001-49'credcard: Falsedata_admissao: '2023-05-04'data_ativacao: Nonedata_cad: '2023-05-04'data_conta: '2023-05-04'data_nasc: Nonedata_tolerancia_bloqueio: Nonedesativa_consulta_credito: Falsedestacar_icms: Falsedestino_segunda_via_comprovante: Nonedistribuidora: Nonedistribuidora_estacao: Noneemail: ''email_c: ''email_dados_cadastrais: Falseemail_documento_eletronico: ''email_nfe: ''email_nfe_trr: ''email_venda: Noneempresa: Noneempresa_contabilidade: Noneendereco: 'RUA C 17, 213'endereco_c: ''envia_email_pendencia_financeira: Noneestado: 'PR'estado_c: ''estado_civil: Nonefatura_entrega_outro: Nonefatura_entrega_terceiro: Nonefatura_entrega_tipo: Nonefax: ''fax_c: ''filhos: Noneflag: 'A'fone: ''fone_c: ''forma_grupo: Falseforma_pgto: Nonegestor_conta: Nonegrau_instrucao: Nonegrid: 13203Lgrupo: 106Lgrupo_credito: Noneidentifica_cartao_fidelidade_auto: Falseidentifica_token: Falseidentificacao_venda: Noneinscr_est: 'ISENTO'inscr_municipal: Noneinstrucao_operacional: Nonejunta_comercial_data: Nonejunta_comercial_registro: Nonelimite_credito: Nonelocal_destaque_subst: 0logradouro: 'RUA C 17'mastercard: Falsemax_itens_venda: Nonemot_bloq: ''municipio: 4106902nao_contribuinte_icms: Falsenatural_municipio: Nonenatural_pais: Nonenatural_uf: Nonenome: 'DISSEL DAHORA'nome_cartao: ''nome_mae: Nonenome_pai: Nonenome_reduzido: ''nr_dependente: 0numero: '213'numero_cnh: ''obriga_forma_pgto_padrao: Falseobriga_nota: Falseobriga_nota_sem_cupom: Falseobs: ''obs_negocio_comercial: ''ordena_email_agrupado_empresa: Falseorgao_publico: Falseoutro_cartao: Falsepais: 1058participa_fidelidade_cpf: Falsepermite_cupom_ie: Falsepessoa: Nonepgd_flow_flag: 'N'pgd_gfid: 5080Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:21:16.375559'pis: Noneprodutor_rural: Falseramo: 'V'regime_apuracao: 3representante_cpf: Nonerepresentante_nome: Noneretentor_iss: Falserg: ''rg_data_exp: ''rg_orgao_exp: ''rntrc: Nonesaldo_offline_ie: Nonesenha_fidelidade: Nonesexo: ''tabela_preco: Nonetabela_preco_fatura: Nonetarifa_estacionamento: Nonetipo: 'F'tipo_ajuste_credito_tributario: Nonetipo_pessoa: 'J'tolerancia_cheque_devolvido: Nonetroca_valor: Truets_flag: Noneuf: 'PR'ult_alteracao: '2023-05-04 14:21:16'ult_usuario: 'EU'unidade_origem: Noneutiliza_agregado_cupom: Falseutiliza_email_nfe: Falsevencto_cnh: Nonevenda_alterar_dados: Falsevenda_email_obs: Falsevenda_envia_email: Falsevenda_envia_email_agrupado: Falsevenda_ler_autorizacao: Falsevenda_ler_convenio: Falsevenda_ler_cpf: Falsevenda_ler_digital: Falsevenda_ler_frota: Falsevenda_ler_hm: Falsevenda_ler_km: Falsevenda_ler_motorista: Falsevenda_ler_numero_pedido: Falsevenda_ler_placa: Falsevenda_ler_portal: Falsevenda_ler_somente_combustivel: Falsevenda_motorista_obrigatorio: Falsevenda_placa_obrigatoria: Falseversao: '2.0'visa: Falsewww: ''
+-------------------------
+2023-05-04 15:54
+Tabela: 'tanque_modelo'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "tanque_modelo_pkey"
+DETAIL:  Key (grid)=(13204) already exists.
+
+
+altura: 250capacidade: 30000.0codigo: 2escala: 10.0escala_fracionada: Falsefabricante: 13203Lgrid: 13204Llastro: 300.0nome: 'TANQUE 30MIL'pgd_flow_flag: 'N'pgd_gfid: 5081Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:21:52'
+-------------------------
+2023-05-04 15:54
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13205) already exists.
+
+
+altura_tanque: Nonecapacidade: 30000codigo: 5codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13205Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2_POSTO_UM'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5082Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:22:47.301996'produto: 13162Ltanque_modelo: 13204Luso_consumo: False
+-------------------------
+2023-05-04 15:54
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13206) already exists.
+
+
+codigo: 2Lempresa: 12977Lfabricante: 13203Lgrid: 13206Lmodelo: 'TESTE_BOMBA_DIGITAL'nr_serie: '8575896784'pgd_flow_flag: 'N'pgd_gfid: 5083Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:23:47'tipo: 2
+-------------------------
+2023-05-04 15:54
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13207) already exists.
+
+
+bomba: 13206Lctf: Falsedeposito: 13205Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13207Lilha: Nonenome: '2'pgd_flow_flag: 'N'pgd_gfid: 5084Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:24:15.423955'tipo_preco: 1
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13162) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13162Lgrupo: 192Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001CC8E20C8CF7D66A94F34F98C9AC5E9A8D3'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5009Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:41.760248'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13163) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13163Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V00141FDF467E6CAA9E1D2CB0684B3EE965928'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5010Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13162Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13166) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13166Lgrupo: 192Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5013Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto: 13162Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13170) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 3codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13170Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5017Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:12:26.786804'produto: 10781Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13171) already exists.
+
+
+codigo: 1Lempresa: 12977Lfabricante: 11700Lgrid: 13171Lmodelo: '15.000'nr_serie: '15648789'pgd_flow_flag: 'N'pgd_gfid: 5018Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:05'tipo: 1
+-------------------------
+2023-05-04 15:55
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13172) already exists.
+
+
+bomba: 13171Lctf: Falsedeposito: 13170Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13172Lilha: Nonenome: '1'pgd_flow_flag: 'N'pgd_gfid: 5019Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:13:51.100978'tipo_preco: 1
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13173) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13173Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001A0449A679562D20AEBCE719464FB3FB4A9'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5024Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:22:48'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 12892Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13176) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 12977Lgrid: 13176Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V0017F3B94791DDCF62AC4996A647E3D82CA0F'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5029Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:23:12'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 10781Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13183) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13183Lgrupo: 10754Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001445DD3E2BFA3662D1602232435B0479C80'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5042Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04.417438'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13184) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 12977Lgrid: 13184Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001CCEC5FC8400715ADD14694A19070B8B8FD'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5043Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13183Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13187) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13187Lgrupo: 10754Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5046Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto: 13183Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2.1) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2.1'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Trueexibir_credito_venda: Falsegrid: 13188Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV_01_POSTO_UM'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5048Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:32:55.562201'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Trueexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 03'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5065Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:08:54.709076'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 03'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5066Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:08:58.662868'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 672, in recv_table_update
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5068Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'Un'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:10:11.315454'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.1.1) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.1.1'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13196Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 011'pai: ''pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5069Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:11:22.532935'programacao: Falsesaldo_inicial: Nonesaldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13198) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13198Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02'pai: ''pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5073Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:12:45.424144'programacao: Falsesaldo_inicial: Nonesaldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13202) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 4codigo_medidor: ''departamento: Noneempresa: 13059Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13202Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 1'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5077Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:19:07.708306'produto: 13162Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'pessoa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "pessoa_pkey"
+DETAIL:  Key (grid)=(13203) already exists.
+
+
+amex: Falsebairro: 'VILA NOVA CANA\xe3'bairro_c: ''bairro_grid: Nonebloqueado: Falsebloqueia_cheque_terceiro: Falsebloqueia_emissao_vale_refeicao: Nonebloqueia_geracao_ponto: Nonebloqueia_nota: Falsebrinde: Falsecargo: Nonecartao_ag: Nonecarteira_trabalho: Nonecelular: ''cep: '74.415-250'cep_c: ''cidade: 'CURITIBA'cidade_c: ''ciencia_manifestacao_auto: Falsecliente_dias_tolerancia: Nonecliente_marka: Nonecnae: Nonecod_restituicao: Nonecodigo: 1007complemento: ''conceito: Noneconsulta_saldo_offline_ie: Falsecontador: Nonecontato: ''contato_c: ''convenio: Nonecpf: '97.561.019/0001-49'credcard: Falsedata_admissao: '2023-05-04'data_ativacao: Nonedata_cad: '2023-05-04'data_conta: '2023-05-04'data_nasc: Nonedata_tolerancia_bloqueio: Nonedesativa_consulta_credito: Falsedestacar_icms: Falsedestino_segunda_via_comprovante: Nonedistribuidora: Nonedistribuidora_estacao: Noneemail: ''email_c: ''email_dados_cadastrais: Falseemail_documento_eletronico: ''email_nfe: ''email_nfe_trr: ''email_venda: Noneempresa: Noneempresa_contabilidade: Noneendereco: 'RUA C 17, 213'endereco_c: ''envia_email_pendencia_financeira: Noneestado: 'PR'estado_c: ''estado_civil: Nonefatura_entrega_outro: Nonefatura_entrega_terceiro: Nonefatura_entrega_tipo: Nonefax: ''fax_c: ''filhos: Noneflag: 'A'fone: ''fone_c: ''forma_grupo: Falseforma_pgto: Nonegestor_conta: Nonegrau_instrucao: Nonegrid: 13203Lgrupo: 106Lgrupo_credito: Noneidentifica_cartao_fidelidade_auto: Falseidentifica_token: Falseidentificacao_venda: Noneinscr_est: 'ISENTO'inscr_municipal: Noneinstrucao_operacional: Nonejunta_comercial_data: Nonejunta_comercial_registro: Nonelimite_credito: Nonelocal_destaque_subst: 0logradouro: 'RUA C 17'mastercard: Falsemax_itens_venda: Nonemot_bloq: ''municipio: 4106902nao_contribuinte_icms: Falsenatural_municipio: Nonenatural_pais: Nonenatural_uf: Nonenome: 'DISSEL DAHORA'nome_cartao: ''nome_mae: Nonenome_pai: Nonenome_reduzido: ''nr_dependente: 0numero: '213'numero_cnh: ''obriga_forma_pgto_padrao: Falseobriga_nota: Falseobriga_nota_sem_cupom: Falseobs: ''obs_negocio_comercial: ''ordena_email_agrupado_empresa: Falseorgao_publico: Falseoutro_cartao: Falsepais: 1058participa_fidelidade_cpf: Falsepermite_cupom_ie: Falsepessoa: Nonepgd_flow_flag: 'N'pgd_gfid: 5080Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:21:16.375559'pis: Noneprodutor_rural: Falseramo: 'V'regime_apuracao: 3representante_cpf: Nonerepresentante_nome: Noneretentor_iss: Falserg: ''rg_data_exp: ''rg_orgao_exp: ''rntrc: Nonesaldo_offline_ie: Nonesenha_fidelidade: Nonesexo: ''tabela_preco: Nonetabela_preco_fatura: Nonetarifa_estacionamento: Nonetipo: 'F'tipo_ajuste_credito_tributario: Nonetipo_pessoa: 'J'tolerancia_cheque_devolvido: Nonetroca_valor: Truets_flag: Noneuf: 'PR'ult_alteracao: '2023-05-04 14:21:16'ult_usuario: 'EU'unidade_origem: Noneutiliza_agregado_cupom: Falseutiliza_email_nfe: Falsevencto_cnh: Nonevenda_alterar_dados: Falsevenda_email_obs: Falsevenda_envia_email: Falsevenda_envia_email_agrupado: Falsevenda_ler_autorizacao: Falsevenda_ler_convenio: Falsevenda_ler_cpf: Falsevenda_ler_digital: Falsevenda_ler_frota: Falsevenda_ler_hm: Falsevenda_ler_km: Falsevenda_ler_motorista: Falsevenda_ler_numero_pedido: Falsevenda_ler_placa: Falsevenda_ler_portal: Falsevenda_ler_somente_combustivel: Falsevenda_motorista_obrigatorio: Falsevenda_placa_obrigatoria: Falseversao: '2.0'visa: Falsewww: ''
+-------------------------
+2023-05-04 15:55
+Tabela: 'tanque_modelo'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "tanque_modelo_pkey"
+DETAIL:  Key (grid)=(13204) already exists.
+
+
+altura: 250capacidade: 30000.0codigo: 2escala: 10.0escala_fracionada: Falsefabricante: 13203Lgrid: 13204Llastro: 300.0nome: 'TANQUE 30MIL'pgd_flow_flag: 'N'pgd_gfid: 5081Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:21:52'
+-------------------------
+2023-05-04 15:55
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13205) already exists.
+
+
+altura_tanque: Nonecapacidade: 30000codigo: 5codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13205Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2_POSTO_UM'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5082Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:22:47.301996'produto: 13162Ltanque_modelo: 13204Luso_consumo: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13206) already exists.
+
+
+codigo: 2Lempresa: 12977Lfabricante: 13203Lgrid: 13206Lmodelo: 'TESTE_BOMBA_DIGITAL'nr_serie: '8575896784'pgd_flow_flag: 'N'pgd_gfid: 5083Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:23:47'tipo: 2
+-------------------------
+2023-05-04 15:55
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13207) already exists.
+
+
+bomba: 13206Lctf: Falsedeposito: 13205Ldesconto: Noneempresa: 12977Lenc_ini: Nonegrid: 13207Lilha: Nonenome: '2'pgd_flow_flag: 'N'pgd_gfid: 5084Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:24:15.423955'tipo_preco: 1
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13221) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.1.1'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13221Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 01 - POSTO 01'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5101Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:58:32.547554'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13222) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2.1'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13222Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 01 - POSTO 02'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5104Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:01:14.813621'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'pessoa_simples'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "pessoa_simples_pkey"
+DETAIL:  Key (grid)=(13235) already exists.
+
+
+bairro: ''bloqueado: Falsecep: '182484688'cidade: 'ABADIA DE GOIAS'complemento: ''cpf: '020.105.040-46'data_bloqueio: Nonedata_cadastro: '2023-05-04'data_nasc: Noneemail: ''endereco: 'FONFOFNON'estado: 'GO'flag: 'A'fone: ''grid: 13235Lgrupo_consumidor: Noneinscr_est: 'ISENTO'logradouro: ''mot_bloq: ''municipio: 5200050nome: 'JORGE'numero: ''obs: ''pgd_flow_flag: 'N'pgd_gfid: 5118Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'caixa'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:20:50'rg: ''senha_fidelidade: Noneuf: 'GO'
+-------------------------
+2023-05-04 15:55
+Tabela: 'empresa_conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "empresa_conta_pkey"
+DETAIL:  Key (grid)=(13253) already exists.
+
+
+conta: '1.1.2.1.1'empresa: 1Lgrid: 13253Lpgd_flow_flag: 'N'pgd_gfid: 5141Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:34:38.60985'
+-------------------------
+2023-05-04 15:55
+Tabela: 'empresa_conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "empresa_conta_pkey"
+DETAIL:  Key (grid)=(13254) already exists.
+
+
+conta: '1.1.2.2.1'empresa: 1Lgrid: 13254Lpgd_flow_flag: 'N'pgd_gfid: 5142Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:34:38.60985'
+-------------------------
+2023-05-04 15:55
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13255) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.1.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13255Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02 - POSTO 01'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5145Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:35:16.955762'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 15:55
+Tabela: 'empresa_conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "empresa_conta_pkey"
+DETAIL:  Key (grid)=(13256) already exists.
+
+
+conta: '1.1.2.1.2'empresa: 1Lgrid: 13256Lpgd_flow_flag: 'N'pgd_gfid: 5146Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:35:33.021053'
+-------------------------
+2023-05-04 16:04
+Tabela: 'pessoa_simples'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "pessoa_simples_pkey"
+DETAIL:  Key (grid)=(13235) already exists.
+
+
+bairro: ''bloqueado: Falsecep: '182484688'cidade: 'ABADIA DE GOIAS'complemento: ''cpf: '020.105.040-46'data_bloqueio: Nonedata_cadastro: '2023-05-04'data_nasc: Noneemail: ''endereco: 'FONFOFNON'estado: 'GO'flag: 'A'fone: ''grid: 13235Lgrupo_consumidor: Noneinscr_est: 'ISENTO'logradouro: ''mot_bloq: ''municipio: 5200050nome: 'JORGE'numero: ''obs: ''pgd_flow_flag: 'N'pgd_gfid: 5118Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'caixa'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:20:50'rg: ''senha_fidelidade: Noneuf: 'GO'
+-------------------------
+2023-05-04 16:04
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13255) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.1.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13255Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02 - POSTO 01'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5145Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:35:16.955762'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13162) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13162Lgrupo: 192Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001CC8E20C8CF7D66A94F34F98C9AC5E9A8D3'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5009Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:41.760248'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13164) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 13059Lgrid: 13164Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001F1F215C27FA3A515B08FCE97AA50BC273D'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5011Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13162Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13166) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: '06.006.00'cfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '3'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '2710.19.22'cofins: Falsecomissao: 0.0conta_estoque: '3.2.25'conta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 11700Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13166Lgrupo: 192Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 40.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DISSEL'nome_resumido: ''obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5013Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:10:42'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 5.0preco_prazo: 9.0preco_unit: 7.0produto: 13162Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 15000.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12891Ltipo: 'C'tipo_combustivel: 85tipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:10:41'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'L'unid_med_entrada: 'L'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13170) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 3codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13170Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5017Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:12:26.786804'produto: 10781Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13174) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 13059Lgrid: 13174Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V0014B4394BC2A68ADCD91525ABF1CABEFE85B'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5025Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:22:48'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 12892Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13177) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: Noneempresa: 13059Lgrid: 13177Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V0018CA2D660B3B0854A9A9920FACA8BB367F7'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Nonepgd_flow_flag: 'N'pgd_gfid: 5030Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:23:12'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 10781Ltipo_comissao: Noneultima_compra: Nonevenda_ler_vendedor: None
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_pkey"
+DETAIL:  Key (grid)=(13183) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'codigo_proprio: ''cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneescala_cnpj_fabricante: ''escala_nao_relevante: Falseestoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13183Lgrupo: 10754Liat: 'T'info: ''ipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: 'V001445DD3E2BFA3662D1602232435B0479C80'perc_glp_importado: 0.0perc_glp_nacional: 0.0perc_glp_petroleo: 0.0perc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_compra_dist: Truepermite_parcelamento_condicionado: Falsepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5042Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04.417438'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevalor_glp_partida: 0.0venda_ler_vendedor: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto_empresa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_empresa_pkey"
+DETAIL:  Key (grid)=(13185) already exists.
+
+
+comissao: Nonecusto_medio: Nonecusto_subst: 0.0empresa: 13059Lgrid: 13185Lmargem_lucro: Nonemargem_lucro_padrao: Nonemargem_lucro_sobre: Nonepaf_hash: 'V001845EB048CD1C6AF613E0614D96AA23C161'perc_imposto: Nonepermite_compra: Nonepermite_compra_dist: Nonepermite_venda: Truepermite_venda_dist: Truepgd_flow_flag: 'N'pgd_gfid: 5044Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'preco_custo: Nonepreco_prazo: Nonepreco_unit: Noneproduto: 13183Ltipo_comissao: 'P'ultima_compra: Nonevenda_ler_vendedor: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'produto_historico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "produto_historico_pkey"
+DETAIL:  Key (grid)=(13187) already exists.
+
+
+aliquota_ipi: Noneaplicacao: ''brinde: Falsecest: Nonecfop_dentro: Nonecfop_fora: Noneclass_servico: Noneclassificacao_cpbr: Noneclassificacao_fiscal: Nonecodigo: '4'codigo_barra: ''codigo_nbs: Nonecodigo_ncm: '0307.83.00'cofins: Falsecomissao: 0.0conta_estoque: Noneconta_transfer: Noneconta_usoconsumo: Nonecontrolar_estoque: Truecst_cofins: Nonecst_cofins_entrada: Nonecst_ipi_entrada: Nonecst_ipi_saida: Nonecst_pis: Nonecst_pis_entrada: Nonecusto_subst: Nonedata_cad: '2023-05-04'destaque_subst: Falsedias_validade: Noneestacao: 'SUPORTE.WORKGROUP'estoque_negativo: 3exporta_checkapp: Falseexporta_inforlub: Falsefabricado_venda: Falsefavorito: 0Lflag: 'A'fornecedor: 10755Lgerar_ponto_coeficiente: Falsegerar_ponto_qtde: Falsegerar_ponto_valor: Falsegorjeta: 0grid: 13187Lgrupo: 10754Liat: 'T'info: ''integracao: Noneipp_negocio: Noneippt: 'T'km_trocar: Nonemarca: Nonemargem_lucro: 200.0margem_lucro_padrao: Nonemargem_lucro_sobre: 0natureza_receita: Nonenatureza_recolhimento: Nonenome: 'DORITOS'nome_resumido: 'DORI'obriga_imposto_subst_entrada_nf: Falsepaf_hash: Noneperc_imposto: Noneperda_sobra: Noneperecivel: Falsepermite_compra: Truepermite_venda: Truepgd_flow_flag: 'N'pgd_gfid: 5046Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 13:29:04'pis: Falseponto_coeficiente: Noneponto_qtde: Noneponto_resgate: Noneponto_valor: Nonepreco_custo: 1.0preco_prazo: 5.0preco_unit: 3.0produto: 13183Lproduto_cpbr: Noneproduto_especial: Falseqtde_conversao: Noneqtde_unid_entrada: 12.0reajusta_preco_auto: 2reajusta_preco_menor_auto: Falsesigla: ''subgrupo: 12890Ltipo: 'M'tipo_combustivel: Nonetipo_comissao: 'P'tipo_servico: Nonetributacao: '040'trocar_ponto: Falseult_alteracao: '2023-05-04 13:29:04'ult_usuario: 'EU'unid_conversao: Noneunid_med: 'CX'unid_med_entrada: 'CX'unid_trib: ''uso_consumo: Falsevenda_ler_vendedor: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Trueexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 03'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5065Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:08:54.709076'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 03'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5066Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:08:58.662868'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 672, in recv_table_update
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_codigo_ix"
+DETAIL:  Key (codigo)=(1.1.2.2) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 10776Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5068Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'Un'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:10:11.315454'programacao: Falsesaldo_inicial: 200.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13198) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13198Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02'pai: ''pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5073Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:12:45.424144'programacao: Falsesaldo_inicial: Nonesaldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13201) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.50'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13201Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 3'pai: ''pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5076Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:14:37.49652'programacao: Falsesaldo_inicial: Nonesaldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: Nonevalidar_alinea: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13202) already exists.
+
+
+altura_tanque: Nonecapacidade: 15000codigo: 4codigo_medidor: ''departamento: Noneempresa: 13059Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13202Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 1'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5077Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:19:07.708306'produto: 13162Ltanque_modelo: 12858Luso_consumo: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'pessoa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "pessoa_pkey"
+DETAIL:  Key (grid)=(13203) already exists.
+
+
+amex: Falsebairro: 'VILA NOVA CANA\xe3'bairro_c: ''bairro_grid: Nonebloqueado: Falsebloqueia_cheque_terceiro: Falsebloqueia_emissao_vale_refeicao: Nonebloqueia_geracao_ponto: Nonebloqueia_nota: Falsebrinde: Falsecargo: Nonecartao_ag: Nonecarteira_trabalho: Nonecelular: ''cep: '74.415-250'cep_c: ''cidade: 'CURITIBA'cidade_c: ''ciencia_manifestacao_auto: Falsecliente_dias_tolerancia: Nonecliente_marka: Nonecnae: Nonecod_restituicao: Nonecodigo: 1007complemento: ''conceito: Noneconsulta_saldo_offline_ie: Falsecontador: Nonecontato: ''contato_c: ''convenio: Nonecpf: '97.561.019/0001-49'credcard: Falsedata_admissao: '2023-05-04'data_ativacao: Nonedata_cad: '2023-05-04'data_conta: '2023-05-04'data_nasc: Nonedata_tolerancia_bloqueio: Nonedesativa_consulta_credito: Falsedestacar_icms: Falsedestino_segunda_via_comprovante: Nonedistribuidora: Nonedistribuidora_estacao: Noneemail: ''email_c: ''email_dados_cadastrais: Falseemail_documento_eletronico: ''email_nfe: ''email_nfe_trr: ''email_venda: Noneempresa: Noneempresa_contabilidade: Noneendereco: 'RUA C 17, 213'endereco_c: ''envia_email_pendencia_financeira: Noneestado: 'PR'estado_c: ''estado_civil: Nonefatura_entrega_outro: Nonefatura_entrega_terceiro: Nonefatura_entrega_tipo: Nonefax: ''fax_c: ''filhos: Noneflag: 'A'fone: ''fone_c: ''forma_grupo: Falseforma_pgto: Nonegestor_conta: Nonegrau_instrucao: Nonegrid: 13203Lgrupo: 106Lgrupo_credito: Noneidentifica_cartao_fidelidade_auto: Falseidentifica_token: Falseidentificacao_venda: Noneinscr_est: 'ISENTO'inscr_municipal: Noneinstrucao_operacional: Nonejunta_comercial_data: Nonejunta_comercial_registro: Nonelimite_credito: Nonelocal_destaque_subst: 0logradouro: 'RUA C 17'mastercard: Falsemax_itens_venda: Nonemot_bloq: ''municipio: 4106902nao_contribuinte_icms: Falsenatural_municipio: Nonenatural_pais: Nonenatural_uf: Nonenome: 'DISSEL DAHORA'nome_cartao: ''nome_mae: Nonenome_pai: Nonenome_reduzido: ''nr_dependente: 0numero: '213'numero_cnh: ''obriga_forma_pgto_padrao: Falseobriga_nota: Falseobriga_nota_sem_cupom: Falseobs: ''obs_negocio_comercial: ''ordena_email_agrupado_empresa: Falseorgao_publico: Falseoutro_cartao: Falsepais: 1058participa_fidelidade_cpf: Falsepermite_cupom_ie: Falsepessoa: Nonepgd_flow_flag: 'N'pgd_gfid: 5080Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:21:16.375559'pis: Noneprodutor_rural: Falseramo: 'V'regime_apuracao: 3representante_cpf: Nonerepresentante_nome: Noneretentor_iss: Falserg: ''rg_data_exp: ''rg_orgao_exp: ''rntrc: Nonesaldo_offline_ie: Nonesenha_fidelidade: Nonesexo: ''tabela_preco: Nonetabela_preco_fatura: Nonetarifa_estacionamento: Nonetipo: 'F'tipo_ajuste_credito_tributario: Nonetipo_pessoa: 'J'tolerancia_cheque_devolvido: Nonetroca_valor: Truets_flag: Noneuf: 'PR'ult_alteracao: '2023-05-04 14:21:16'ult_usuario: 'EU'unidade_origem: Noneutiliza_agregado_cupom: Falseutiliza_email_nfe: Falsevencto_cnh: Nonevenda_alterar_dados: Falsevenda_email_obs: Falsevenda_envia_email: Falsevenda_envia_email_agrupado: Falsevenda_ler_autorizacao: Falsevenda_ler_convenio: Falsevenda_ler_cpf: Falsevenda_ler_digital: Falsevenda_ler_frota: Falsevenda_ler_hm: Falsevenda_ler_km: Falsevenda_ler_motorista: Falsevenda_ler_numero_pedido: Falsevenda_ler_placa: Falsevenda_ler_portal: Falsevenda_ler_somente_combustivel: Falsevenda_motorista_obrigatorio: Falsevenda_placa_obrigatoria: Falseversao: '2.0'visa: Falsewww: ''
+-------------------------
+2023-05-04 16:21
+Tabela: 'tanque_modelo'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "tanque_modelo_pkey"
+DETAIL:  Key (grid)=(13204) already exists.
+
+
+altura: 250capacidade: 30000.0codigo: 2escala: 10.0escala_fracionada: Falsefabricante: 13203Lgrid: 13204Llastro: 300.0nome: 'TANQUE 30MIL'pgd_flow_flag: 'N'pgd_gfid: 5081Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:21:52'
+-------------------------
+2023-05-04 16:21
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13205) already exists.
+
+
+altura_tanque: Nonecapacidade: 30000codigo: 5codigo_medidor: ''departamento: Noneempresa: 12977Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13205Llastro: Nonemedida_regua_fracionada: Nonenome: 'TANQUE 2_POSTO_UM'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5082Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:22:47.301996'produto: 13162Ltanque_modelo: 13204Luso_consumo: False
+-------------------------
+2023-05-04 16:21
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13208) already exists.
+
+
+codigo: 1Lempresa: 13059Lfabricante: 13203Lgrid: 13208Lmodelo: 'DISSEL_DAHORA_POSTO_DOIS'nr_serie: '98989898'pgd_flow_flag: 'N'pgd_gfid: 5085Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:24:51'tipo: 1
+-------------------------
+2023-05-04 16:21
+Tabela: 'bomba'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bomba_pkey"
+DETAIL:  Key (grid)=(13209) already exists.
+
+
+codigo: 2Lempresa: 13059Lfabricante: 11700Lgrid: 13209Lmodelo: 'GAR 4 U'nr_serie: '7676766767654345B42H34K'pgd_flow_flag: 'N'pgd_gfid: 5086Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:25:15'tipo: 2
+-------------------------
+2023-05-04 16:21
+Tabela: 'bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "bico_pkey"
+DETAIL:  Key (grid)=(13210) already exists.
+
+
+bomba: 13209Lctf: Falsedeposito: 13202Ldesconto: Noneempresa: 13059Lenc_ini: Nonegrid: 13210Lilha: Nonenome: '3'pgd_flow_flag: 'N'pgd_gfid: 5087Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 14:25:55.888318'tipo_preco: 1
+-------------------------
+2023-05-04 16:22
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13255) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.1.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13255Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02 - POSTO 01'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5145Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:35:16.955762'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 16:22
+Tabela: 'caixa_conf'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "caixa_conf_pkey"
+DETAIL:  Key (grid)=(13267) already exists.
+
+
+apenas_nota_fiscal: Falseauditoria_reducaoz: Falseautoatende: Falseautoatende_config_file: Noneautoatende_mouse: Falseautoatende_multipla_comanda_venda: Falseautoatende_pessoa: Noneautoatende_produto: Falseautoatende_template_path: 'share\\autoatende\\template\\default\\'autoatende_tipo: Noneaviso_turno: Falsebaixa_abast_auto_estacao: ''baixa_abast_auto_imprime_danfe: Falsebaixa_abast_auto_limite: Nonebaixa_abast_auto_opt: 0baixa_abast_auto_pendente: Falsebaixa_abast_auto_pessoa: Nonebaixa_abast_auto_tempo: Nonebloquear_abertura_prox_turno: Falsebloquear_digitacao: Falsebloqueia_abast_pendente: Falsecesta_produto: Noneconta: '1.1.2.1.1'conta_cheque: Nonecupom_completo: Falsedepartamento: Nonedeposito: 13170Ldesabilita_troca_valor: Falseecf: Noneecf_flag: 0ecf_ix_troca_valor: ''ecf_limite_abastec_cupom: Noneecf_suprimento_auto: Noneestacao_sync: ''finalizar_venda_valor_atingido: Falsegrid: 13267Lhabilita_gorjeta: Falsehabilita_pos_auttar: Falsehabilita_pos_tef: Falsehabilita_smartpos_tef: Falsehora_fechamento_dia: Nonehorario_turno: ''imprimir_ordem_producao: Falseindice_abast_pendente: Noneindice_afericao: Noneindice_cancelamento_abast: Noneindice_conferencia_mesa: Noneindice_descontinuidade_enc: Noneindice_encerrantes: Noneindice_estoque_fisico_comb: Noneindice_identificacao: Noneindice_meios_pagto: Noneindice_mesa_aberta: Noneindice_parametros: Noneindice_perda_comb: Noneindice_perda_comunicacao: Noneindice_retorno_comunicacao: Noneindice_sem_comunicacao: Noneindice_transf_mesa: Nonelimite_sangria: Nonelimite_sangria_max: Nonemedtanque_abertura: Falsemedtanque_acao: 0medtanque_bico_caixa: Falsemesa_fim: Nonemesa_ini: Nonemodelo_padrao: Nonemovto_usuario: Falsenatureza_op: Nonenatureza_op_cfe: Nonenatureza_op_nfce: Nonenr_turno: 1nr_vias_rel_movto_caixa: Nonenr_vias_troca_valor: Noneobriga_fechamento: Falseobriga_troca_operador: Falseocultar_movto_dinheiro: Falseoperacao_solicita_usuario: Falsepermite_troca_operador: Falsepermite_visualizacao_comanda: Falsepermitir_digitar_rfid: Falsepgd_flow_flag: 'N'pgd_gfid: 5174Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:02:49.539363'pos_auttar_abre_turno: Falsepos_auttar_estacao: ''pos_auttar_fecha_turno: Falsepos_auttar_inicio_auto: Falsepos_auttar_pessoa: Nonepos_tef_abre_turno: Falsepos_tef_cnf_dinheiro: Falsepos_tef_confirma: 0pos_tef_dinheiro: Falsepos_tef_estacao: Nonepos_tef_fecha_turno: Falsepos_tef_inicio_auto: Falsepos_tef_obriga_senha: Falsepos_tef_parcelado: Falsepos_tef_pessoa: Nonepos_tef_postoaki: Falsepos_tef_voucher: Falseregistra_nf_modelo_01: Trueregistra_nf_modelo_02: Falseregistra_nf_modelo_55: Falseregistra_nf_modelo_59: Falseregistra_nf_modelo_65: Falserfid_libera_operacao: Falsesmartpos_tef_abast: Falsesmartpos_tef_abre_turno: Falsesmartpos_tef_dinheiro: Falsesmartpos_tef_estoque: Falsesmartpos_tef_fecha_turno: Falsesmartpos_tef_login: Falsesmartpos_tef_nota_prazo: Falsesmartpos_tef_pessoa: Nonesmartpos_tef_postoaki: Falsesmartpos_tef_produto: Falsesmartpos_tef_voucher: Falsesobra_falta_fechamento: Truetaxa_gorjeta: Nonetempo_limite_abast_pendente: Nonetolerancia_turno: Nonetroco_inicial: 200.0turno_fim: 1turno_ini: 1turno_modo: 1venda_somente_comanda: False
+-------------------------
+2023-05-04 16:22
+Tabela: 'caixa_conf_bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "caixa_conf_bico_pkey"
+DETAIL:  Key (grid)=(13268) already exists.
+
+
+bico: '2'conta: '1.1.2.1.1'grid: 13268Lpgd_flow_flag: 'N'pgd_gfid: 5175Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:02:50'
+-------------------------
+2023-05-04 16:22
+Tabela: 'caixa_conf_bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "caixa_conf_bico_pkey"
+DETAIL:  Key (grid)=(13269) already exists.
+
+
+bico: '5'conta: '1.1.2.1.1'grid: 13269Lpgd_flow_flag: 'N'pgd_gfid: 5176Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:02:50'
+-------------------------
+2023-05-04 16:22
+Tabela: 'caixa_conf'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "caixa_conf_pkey"
+DETAIL:  Key (grid)=(13270) already exists.
+
+
+apenas_nota_fiscal: Falseauditoria_reducaoz: Falseautoatende: Falseautoatende_config_file: Noneautoatende_mouse: Falseautoatende_multipla_comanda_venda: Falseautoatende_pessoa: Noneautoatende_produto: Falseautoatende_template_path: 'share\\autoatende\\template\\default\\'autoatende_tipo: Noneaviso_turno: Falsebaixa_abast_auto_estacao: ''baixa_abast_auto_imprime_danfe: Falsebaixa_abast_auto_limite: Nonebaixa_abast_auto_opt: 0baixa_abast_auto_pendente: Falsebaixa_abast_auto_pessoa: Nonebaixa_abast_auto_tempo: Nonebloquear_abertura_prox_turno: Falsebloquear_digitacao: Falsebloqueia_abast_pendente: Falsecesta_produto: Noneconta: '1.1.2.1.2'conta_cheque: Nonecupom_completo: Falsedepartamento: Nonedeposito: 13205Ldesabilita_troca_valor: Falseecf: Noneecf_flag: 0ecf_ix_troca_valor: ''ecf_limite_abastec_cupom: Noneecf_suprimento_auto: Noneestacao_sync: ''finalizar_venda_valor_atingido: Falsegrid: 13270Lhabilita_gorjeta: Falsehabilita_pos_auttar: Falsehabilita_pos_tef: Falsehabilita_smartpos_tef: Falsehora_fechamento_dia: Nonehorario_turno: ''imprimir_ordem_producao: Falseindice_abast_pendente: Noneindice_afericao: Noneindice_cancelamento_abast: Noneindice_conferencia_mesa: Noneindice_descontinuidade_enc: Noneindice_encerrantes: Noneindice_estoque_fisico_comb: Noneindice_identificacao: Noneindice_meios_pagto: Noneindice_mesa_aberta: Noneindice_parametros: Noneindice_perda_comb: Noneindice_perda_comunicacao: Noneindice_retorno_comunicacao: Noneindice_sem_comunicacao: Noneindice_transf_mesa: Nonelimite_sangria: Nonelimite_sangria_max: Nonemedtanque_abertura: Falsemedtanque_acao: 0medtanque_bico_caixa: Falsemesa_fim: Nonemesa_ini: Nonemodelo_padrao: Nonemovto_usuario: Falsenatureza_op: Nonenatureza_op_cfe: Nonenatureza_op_nfce: Nonenr_turno: 1nr_vias_rel_movto_caixa: Nonenr_vias_troca_valor: Noneobriga_fechamento: Falseobriga_troca_operador: Falseocultar_movto_dinheiro: Falseoperacao_solicita_usuario: Falsepermite_troca_operador: Falsepermite_visualizacao_comanda: Falsepermitir_digitar_rfid: Falsepgd_flow_flag: 'N'pgd_gfid: 5177Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:03:19.400476'pos_auttar_abre_turno: Falsepos_auttar_estacao: ''pos_auttar_fecha_turno: Falsepos_auttar_inicio_auto: Falsepos_auttar_pessoa: Nonepos_tef_abre_turno: Falsepos_tef_cnf_dinheiro: Falsepos_tef_confirma: 0pos_tef_dinheiro: Falsepos_tef_estacao: Nonepos_tef_fecha_turno: Falsepos_tef_inicio_auto: Falsepos_tef_obriga_senha: Falsepos_tef_parcelado: Falsepos_tef_pessoa: Nonepos_tef_postoaki: Falsepos_tef_voucher: Falseregistra_nf_modelo_01: Trueregistra_nf_modelo_02: Falseregistra_nf_modelo_55: Falseregistra_nf_modelo_59: Falseregistra_nf_modelo_65: Falserfid_libera_operacao: Falsesmartpos_tef_abast: Falsesmartpos_tef_abre_turno: Falsesmartpos_tef_dinheiro: Falsesmartpos_tef_estoque: Falsesmartpos_tef_fecha_turno: Falsesmartpos_tef_login: Falsesmartpos_tef_nota_prazo: Falsesmartpos_tef_pessoa: Nonesmartpos_tef_postoaki: Falsesmartpos_tef_produto: Falsesmartpos_tef_voucher: Falsesobra_falta_fechamento: Truetaxa_gorjeta: Nonetempo_limite_abast_pendente: Nonetolerancia_turno: Nonetroco_inicial: Noneturno_fim: 1turno_ini: 1turno_modo: 1venda_somente_comanda: False
+-------------------------
+2023-05-04 16:22
+Tabela: 'caixa_conf_bico'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "caixa_conf_bico_pkey"
+DETAIL:  Key (grid)=(13271) already exists.
+
+
+bico: '5'conta: '1.1.2.1.2'grid: 13271Lpgd_flow_flag: 'N'pgd_gfid: 5178Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:03:19'
+-------------------------
+2023-05-04 16:22
+Tabela: 'caixa'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "caixa_pkey"
+DETAIL:  Key (grid)=(13272) already exists.
+
+
+abertura: '2023-05-04 16:03:49'codigo: Noneconferencia: Noneconta: '1.1.2.1.1'data: '2023-05-04'empresa: 12977Lfechamento: '2023-05-04 22:00:00'grid: 13272Lpessoa: 10668Lpessoa_confere: Nonepgd_flow_flag: 'N'pgd_gfid: 5179Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:03:49.309453'turno: 1usuario: ''
+-------------------------
+2023-05-04 16:23
+Tabela: 'conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "conta_pkey"
+DETAIL:  Key (grid)=(13255) already exists.
+
+
+aprovar_lancamento: Falsecodigo: '1.1.2.1.2'codigo_reduzido: Nonecompensar_movto: Falseconta_analitica: ''controlar_saldo_limite: Falsecontrole_limite: 0credor: Falseexibir_credito_venda: Falsegrid: 13255Limpedir_saldo_negativo: Falseimprimir: Falselancar: Truelimite_credito_pessoa_fisica: Nonelimite_credito_pessoa_juridica: Nonelivro_caixa: Falsenome: 'PDV 02 - POSTO 01'pai: '0'pendencia: Falsepesquisa_vencto: Falsepgd_flow_flag: 'N'pgd_gfid: 5145Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:35:16.955762'programacao: Falsesaldo_inicial: 0.0saldo_limite: 0.0tipo_conta_pagar: Falsetipo_conta_receber: Falsetipo_despesa: Falsetolerancia_saldo_negativo: 0.0validar_alinea: False
+-------------------------
+2023-05-04 16:23
+Tabela: 'empresa_conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "empresa_conta_pkey"
+DETAIL:  Key (grid)=(4294967307) already exists.
+
+
+conta: '1.1.2.1.1'empresa: 12977Lgrid: 4294967307Lpgd_flow_flag: 'Y'pgd_gfid: 5170Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: 4294967328Lpgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:55:53'
+-------------------------
+2023-05-04 16:23
+Tabela: 'empresa_conta'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "empresa_conta_pkey"
+DETAIL:  Key (grid)=(4294967308) already exists.
+
+
+conta: '1.1.2.1.2'empresa: 12977Lgrid: 4294967308Lpgd_flow_flag: 'Y'pgd_gfid: 5171Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: 4294967329Lpgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 15:55:53'
+-------------------------
+2023-05-04 16:29
+Tabela: 'deposito'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_pkey"
+DETAIL:  Key (grid)=(13292) already exists.
+
+
+altura_tanque: Nonecapacidade: Nonecodigo: 6codigo_medidor: ''departamento: Noneempresa: 13059Lescala_regua: Noneestoque_negativo: Falseflag: 'A'grid: 13292Llastro: Nonemedida_regua_fracionada: Nonenome: 'DEPOSITO 01-POSTO_02'numero_tanque_lmc: Nonepgd_flow_flag: 'N'pgd_gfid: 5229Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:25:30.223837'produto: Nonetanque_modelo: Noneuso_consumo: False
+-------------------------
+2023-05-04 16:29
+Tabela: 'deposito_grupo_produto'
+
+Traceback (most recent call last):
+  File "sync/sync_client.py", line 557, in recv_table_insert
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+UniqueViolation: duplicate key value violates unique constraint "deposito_grupo_produto_pkey"
+DETAIL:  Key (grid)=(13293) already exists.
+
+
+deposito: 13292Lgrid: 13293Lgrupo: 10754Lpgd_flow_flag: 'N'pgd_gfid: 5230Lpgd_host: 'SUPORTE.WORKGROUP'pgd_module: 'main'pgd_optype: 'I'pgd_rfid: Nonepgd_username: 'EU'pgd_version: '3.3.1.47'pgd_when: '2023-05-04 16:25:30.223837'

@@ -1,0 +1,12 @@
+2023-04-28 17:03:28: AS 19168: INFO: AutoSystem versao 3.3.1.47
+2023-04-28 17:03:28: AS 19168: INFO: Gerado em: 23/03/2022 13:15:56
+2023-04-28 17:03:28: AS 19168: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-04-28 17:03:28: AS 19168: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-04-28 17:03:28: AS 19168: INFO: ASKEY Nome..: OMEGA INFORMATICA LTDA
+2023-04-28 17:03:28: AS 19168: INFO: ASKEY CNPJ..: 09.121.214/0001-90
+2023-04-28 17:03:28: AS 19168: INFO: Conectando banco de dados 'autosystem' em 'localhost' user 'postgres'
+2023-04-28 17:03:29: AS 19168: INFO: Estado do banco de dados: 1647978652
+2023-04-28 17:03:30: AS 19168: INFO: Informações do banco de dados carregadas!
+2023-04-28 17:03:30: AS 19168: INFO: Timezone do Banco já é GMT+3
+2023-04-28 17:03:30: AS 19168: INFO: Utilizando versao PAF: NAO
+2023-04-28 17:03:30: AS 19168: INFO: Medidor de tanque não configurado

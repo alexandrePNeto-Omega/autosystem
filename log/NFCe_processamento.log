@@ -1,0 +1,28 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "threading.pyc", line 801, in __bootstrap_inner
+  File "fiscal/nfe_processamento.py", line 640, in run
+  File "fiscal/nfe_processamento.py", line 710, in processar_contingencia
+  File "classe/nfe_lote.py", line 199, in get_lote_nfe_contigencia
+  File "lztdb.py", line 784, in singleresult
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+OperationalError: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "threading.pyc", line 801, in __bootstrap_inner
+  File "fiscal/nfe_processamento.py", line 882, in run
+  File "fiscal/nfe_processamento.py", line 190, in processar_lote
+  File "classe/nfe_lote.py", line 136, in get_lote_processar
+  File "lztdb.py", line 784, in singleresult
+  File "lztdb.py", line 659, in execute
+  File "psycopg2\extras.pyc", line 146, in execute
+OperationalError: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+

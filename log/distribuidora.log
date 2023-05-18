@@ -1,0 +1,1767 @@
+2023-05-08 09:43:04: AS 6572: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:43:04: AS 6572: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:43:04: AS 6572: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:43:04: AS 6572: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:43:04: AS 6572: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:43:04: AS 6572: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:43:04: AS 6572: WARN: Prazo expira em: 2 dias
+2023-05-08 09:43:04: AS 6572: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:43:04: AS 6572: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:43:06: AS 6572: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:43:06: AS 6572: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:43:07: AS 6572: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:43:07: AS 6572: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:43:07: AS 6572: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:43:07: AS 6572: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:43:07: AS 6572: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:43:07: AS 6572: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:43:08: AS 6572: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:43:08: AS 6572: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:43:50: AS 1308: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:43:50: AS 1308: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:43:50: AS 1308: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:43:51: AS 1308: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:43:51: AS 1308: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:43:51: AS 1308: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:43:51: AS 1308: WARN: Prazo expira em: 2 dias
+2023-05-08 09:43:51: AS 1308: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:43:51: AS 1308: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:43:52: AS 1308: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:43:52: AS 1308: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:43:52: AS 1308: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:43:52: AS 1308: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:43:52: AS 1308: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:43:52: AS 1308: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:43:53: AS 1308: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:43:53: AS 1308: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:43:53: AS 1308: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:43:53: AS 1308: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:44:10: AS 3556: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:44:10: AS 3556: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:44:10: AS 3556: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:44:10: AS 3556: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:44:10: AS 3556: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:44:10: AS 3556: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:44:10: AS 3556: WARN: Prazo expira em: 2 dias
+2023-05-08 09:44:10: AS 3556: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:44:11: AS 3556: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:44:11: AS 3556: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:44:11: AS 3556: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:44:12: AS 3556: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:44:12: AS 3556: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:44:12: AS 3556: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:44:12: AS 3556: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:44:13: AS 3556: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:44:13: AS 3556: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:44:13: AS 3556: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:44:13: AS 3556: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:45:32: AS 19276: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:45:32: AS 19276: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:45:32: AS 19276: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:45:33: AS 19276: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:45:33: AS 19276: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:45:33: AS 19276: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:45:33: AS 19276: WARN: Prazo expira em: 2 dias
+2023-05-08 09:45:33: AS 19276: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:45:33: AS 19276: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:45:33: AS 19276: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:45:33: AS 19276: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:45:34: AS 19276: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:45:34: AS 19276: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:45:34: AS 19276: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:45:34: AS 19276: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:45:35: AS 19276: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:45:35: AS 19276: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:45:35: AS 19276: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:45:35: AS 19276: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:45:55: AS 18428: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:45:55: AS 18428: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:45:55: AS 18428: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:45:55: AS 18428: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:45:55: AS 18428: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:45:55: AS 18428: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:45:55: AS 18428: WARN: Prazo expira em: 2 dias
+2023-05-08 09:45:55: AS 18428: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:45:56: AS 18428: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:45:57: AS 18428: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:45:57: AS 18428: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:45:57: AS 18428: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:45:57: AS 18428: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:45:57: AS 18428: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:45:57: AS 18428: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:45:58: AS 18428: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:45:58: AS 18428: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:45:59: AS 18428: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:45:59: AS 18428: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:46:31: AS 16748: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:46:31: AS 16748: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:46:31: AS 16748: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:46:31: AS 16748: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:46:31: AS 16748: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:46:31: AS 16748: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:46:31: AS 16748: WARN: Prazo expira em: 2 dias
+2023-05-08 09:46:31: AS 16748: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:46:31: AS 21148: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:46:31: AS 21148: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:46:31: AS 21148: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:46:31: AS 21148: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:46:31: AS 21148: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:46:31: AS 21148: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:46:31: AS 21148: WARN: Prazo expira em: 2 dias
+2023-05-08 09:46:31: AS 21148: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:46:31: AS 16748: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:46:32: AS 21148: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:46:33: AS 16748: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:46:33: AS 16748: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:46:33: AS 21148: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:46:33: AS 21148: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:46:34: AS 16748: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:46:34: AS 16748: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:46:34: AS 16748: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:46:34: AS 21148: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:46:34: AS 21148: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:46:34: AS 21148: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:46:34: AS 16748: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:46:34: AS 21148: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:46:35: AS 16748: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:46:35: AS 16748: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:46:35: AS 21148: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:46:35: AS 21148: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:46:36: AS 16748: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:46:36: AS 16748: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:46:36: AS 21148: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:46:36: AS 21148: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:47:20: AS 23356: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:47:20: AS 23356: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:47:20: AS 23356: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:47:20: AS 23356: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:47:20: AS 23356: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:47:20: AS 23356: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:47:20: AS 23356: WARN: Prazo expira em: 2 dias
+2023-05-08 09:47:20: AS 23356: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:47:20: AS 23356: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:47:21: AS 23356: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:47:21: AS 23356: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:47:22: AS 23356: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:47:22: AS 23356: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:47:22: AS 23356: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:47:22: AS 23356: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:47:22: AS 23356: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:47:22: AS 23356: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:47:23: AS 23356: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:47:23: AS 23356: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:47:43: AS 18680: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:47:43: AS 18680: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:47:43: AS 18680: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:47:43: AS 18680: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:47:43: AS 18680: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:47:43: AS 18680: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:47:43: AS 18680: WARN: Prazo expira em: 2 dias
+2023-05-08 09:47:43: AS 18680: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:47:43: AS 18680: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:47:44: AS 18680: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:47:44: AS 18680: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:47:44: AS 18680: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:47:44: AS 18680: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:47:44: AS 18680: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:47:45: AS 18680: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:47:45: AS 18680: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:47:45: AS 18680: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:47:46: AS 18680: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:47:46: AS 18680: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:48:00: AS 18248: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:48:00: AS 18248: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:48:00: AS 18248: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:48:00: AS 18248: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:48:00: AS 18248: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:48:00: AS 18248: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:48:00: AS 18248: WARN: Prazo expira em: 2 dias
+2023-05-08 09:48:00: AS 18248: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:48:00: AS 18248: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:48:01: AS 18248: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:48:01: AS 18248: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:48:01: AS 18248: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:48:01: AS 18248: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:48:01: AS 18248: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:48:02: AS 18248: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:48:02: AS 18248: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:48:02: AS 18248: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:48:02: AS 18248: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:48:02: AS 18248: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:48:53: AS 18156: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:48:53: AS 18156: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:48:53: AS 18156: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:48:53: AS 18156: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:48:53: AS 18156: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:48:53: AS 18156: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:48:53: AS 18156: WARN: Prazo expira em: 2 dias
+2023-05-08 09:48:53: AS 18156: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:48:53: AS 18156: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:48:54: AS 18156: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:48:54: AS 18156: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:48:54: AS 18156: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:48:55: AS 18156: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:48:55: AS 18156: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:48:55: AS 18156: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:48:55: AS 18156: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:48:55: AS 18156: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:48:56: AS 18156: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:48:56: AS 18156: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:56:06: AS 22300: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:56:06: AS 22300: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:56:06: AS 22300: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:56:06: AS 22300: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:56:06: AS 22300: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:56:06: AS 22300: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:56:06: AS 22300: WARN: Prazo expira em: 2 dias
+2023-05-08 09:56:06: AS 22300: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:56:06: AS 22300: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:07: AS 22300: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:07: AS 22300: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:07: AS 22300: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:08: AS 22300: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:56:08: AS 22300: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 09:56:08: AS 22300: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:08: AS 22300: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:08: AS 22300: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:09: AS 22300: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:09: AS 22300: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:56:32: AS 10208: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:56:32: AS 10208: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:56:32: AS 10208: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:56:33: AS 10208: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:56:33: AS 10208: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:56:33: AS 10208: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:56:33: AS 10208: WARN: Prazo expira em: 2 dias
+2023-05-08 09:56:33: AS 10208: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:56:33: AS 10208: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:33: AS 10208: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:33: AS 10208: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:34: AS 10208: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:34: AS 10208: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:56:34: AS 10208: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:56:34: AS 10208: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:35: AS 10208: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:35: AS 10208: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:35: AS 10208: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:35: AS 10208: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 09:56:44: AS 1328: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 09:56:44: AS 1328: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 09:56:44: AS 1328: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 09:56:44: AS 1328: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 09:56:44: AS 1328: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 09:56:44: AS 1328: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 09:56:44: AS 1328: WARN: Prazo expira em: 2 dias
+2023-05-08 09:56:44: AS 1328: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:56:44: AS 1328: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:45: AS 1328: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:45: AS 1328: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:45: AS 1328: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:45: AS 1328: INFO: Utilizando versao PAF: NAO
+2023-05-08 09:56:45: AS 1328: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 09:56:45: AS 1328: INFO: Estado do banco de dados: 1647978652
+2023-05-08 09:56:46: AS 1328: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 09:56:46: AS 1328: INFO: Informações do banco de dados carregadas!
+2023-05-08 09:56:46: AS 1328: INFO: Timezone do Banco já é GMT+3
+2023-05-08 09:56:46: AS 1328: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:02:11: AS 1476: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:02:11: AS 1476: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:02:11: AS 1476: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:02:11: AS 1476: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:02:11: AS 1476: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:02:11: AS 1476: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:02:11: AS 1476: WARN: Prazo expira em: 2 dias
+2023-05-08 10:02:11: AS 1476: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:02:11: AS 1476: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:02:12: AS 1476: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:02:12: AS 1476: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:02:12: AS 1476: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:02:12: AS 1476: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:02:12: AS 1476: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:02:12: AS 1476: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:02:13: AS 1476: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:02:13: AS 1476: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:02:14: AS 1476: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:02:14: AS 1476: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:02:24: AS 1552: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:02:24: AS 1552: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:02:24: AS 1552: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:02:24: AS 1552: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:02:24: AS 1552: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:02:24: AS 1552: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:02:24: AS 1552: WARN: Prazo expira em: 2 dias
+2023-05-08 10:02:24: AS 1552: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:02:24: AS 1552: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:02:24: AS 1552: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:02:25: AS 1552: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:02:25: AS 1552: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:02:25: AS 1552: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:02:25: AS 1552: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:02:25: AS 1552: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:02:26: AS 1552: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:02:26: AS 1552: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:02:26: AS 1552: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:02:26: AS 1552: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:03:29: AS 15068: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:03:29: AS 15068: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:03:29: AS 15068: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:03:29: AS 15068: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:03:29: AS 15068: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:03:29: AS 15068: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:03:29: AS 15068: WARN: Prazo expira em: 2 dias
+2023-05-08 10:03:29: AS 15068: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:03:29: AS 15068: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:03:30: AS 15068: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:03:30: AS 15068: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:03:30: AS 15068: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:03:30: AS 15068: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:03:30: AS 15068: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:03:30: AS 15068: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:03:31: AS 15068: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:03:31: AS 15068: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:03:31: AS 15068: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:03:31: AS 15068: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:40:27: AS 18876: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:40:27: AS 18876: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:40:27: AS 18876: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:40:27: AS 18876: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:40:27: AS 18876: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:40:27: AS 18876: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:40:27: AS 18876: WARN: Prazo expira em: 2 dias
+2023-05-08 10:40:27: AS 18876: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:40:28: AS 18876: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:40:29: AS 18876: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:40:29: AS 18876: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:40:29: AS 18876: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:40:29: AS 18876: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:40:29: AS 18876: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:40:29: AS 18876: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:40:30: AS 18876: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:40:30: AS 18876: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:40:30: AS 18876: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:40:30: AS 18876: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:40:51: AS 19700: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:40:51: AS 19700: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:40:51: AS 19700: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:40:51: AS 19700: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:40:51: AS 19700: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:40:51: AS 19700: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:40:51: AS 19700: WARN: Prazo expira em: 2 dias
+2023-05-08 10:40:51: AS 19700: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:40:51: AS 19700: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:40:52: AS 19700: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:40:52: AS 19700: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:40:52: AS 19700: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:40:52: AS 19700: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:40:52: AS 19700: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:40:52: AS 19700: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:40:53: AS 19700: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:40:53: AS 19700: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:40:54: AS 19700: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:40:54: AS 19700: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:41:20: AS 22400: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:41:20: AS 22400: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:41:20: AS 22400: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:41:20: AS 22400: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:41:20: AS 22400: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:41:20: AS 22400: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:41:20: AS 22400: WARN: Prazo expira em: 2 dias
+2023-05-08 10:41:20: AS 22400: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:41:20: AS 22400: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:41:20: AS 22400: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:41:20: AS 22400: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:41:21: AS 22400: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:41:21: AS 22400: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:41:21: AS 22400: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:41:21: AS 22400: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:41:21: AS 22400: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:41:21: AS 22400: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:41:22: AS 22400: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:41:22: AS 22400: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:41:32: AS 20104: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:41:32: AS 20104: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:41:32: AS 20104: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:41:32: AS 20104: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:41:32: AS 20104: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:41:32: AS 20104: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:41:32: AS 20104: WARN: Prazo expira em: 2 dias
+2023-05-08 10:41:32: AS 20104: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:41:32: AS 20104: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:41:33: AS 20104: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:41:33: AS 20104: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:41:33: AS 20104: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:41:33: AS 20104: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:41:33: AS 20104: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:41:33: AS 20104: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:41:34: AS 20104: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:41:34: AS 20104: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:41:34: AS 20104: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:41:34: AS 20104: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:42:37: AS 16140: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:42:37: AS 16140: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:42:37: AS 16140: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:42:37: AS 16140: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:42:37: AS 16140: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:42:37: AS 16140: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:42:37: AS 16140: WARN: Prazo expira em: 2 dias
+2023-05-08 10:42:37: AS 16140: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:42:38: AS 19856: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:42:38: AS 19856: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:42:38: AS 19856: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:42:38: AS 19856: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:42:38: AS 19856: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:42:38: AS 19856: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:42:38: AS 19856: WARN: Prazo expira em: 2 dias
+2023-05-08 10:42:38: AS 16140: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:42:38: AS 19856: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:42:38: AS 19856: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:42:39: AS 16140: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:42:39: AS 16140: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:42:39: AS 19856: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:42:39: AS 19856: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:42:40: AS 16140: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:42:40: AS 16140: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:42:40: AS 16140: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:42:40: AS 19856: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:42:40: AS 19856: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:42:40: AS 19856: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:42:40: AS 16140: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:42:40: AS 19856: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:42:41: AS 16140: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:42:41: AS 16140: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:42:41: AS 19856: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:42:41: AS 19856: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:42:42: AS 16140: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:42:42: AS 16140: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:42:42: AS 19856: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:42:42: AS 19856: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:43:00: AS 17296: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:43:00: AS 17296: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:43:00: AS 17296: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:43:00: AS 17296: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:43:00: AS 17296: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:43:00: AS 17296: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:43:00: AS 17296: WARN: Prazo expira em: 2 dias
+2023-05-08 10:43:00: AS 17296: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:01: AS 17296: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:01: AS 17296: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:01: AS 17296: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:02: AS 17296: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:02: AS 17296: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:43:02: AS 17296: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:02: AS 17296: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:03: AS 17296: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:03: AS 17296: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:03: AS 17296: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:03: AS 17296: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:43:13: AS 3424: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:43:13: AS 3424: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:43:13: AS 3424: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:43:13: AS 3424: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:43:13: AS 3424: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:43:13: AS 3424: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:43:13: AS 3424: WARN: Prazo expira em: 2 dias
+2023-05-08 10:43:13: AS 3424: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:13: AS 3424: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:13: AS 3424: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:14: AS 3424: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:14: AS 3424: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:14: AS 3424: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:43:14: AS 3424: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:14: AS 3424: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:15: AS 3424: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:15: AS 3424: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:15: AS 3424: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:15: AS 3424: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:43:27: AS 4148: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:43:27: AS 4148: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:43:27: AS 4148: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:43:27: AS 4148: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:43:27: AS 4148: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:43:27: AS 4148: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:43:27: AS 4148: WARN: Prazo expira em: 2 dias
+2023-05-08 10:43:27: AS 4148: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:28: AS 4148: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:28: AS 4148: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:28: AS 4148: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:28: AS 4148: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:29: AS 4148: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:43:29: AS 4148: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:43:29: AS 4148: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:43:29: AS 4148: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:43:29: AS 4148: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:43:30: AS 4148: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:43:30: AS 4148: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:44:21: AS 768: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:44:21: AS 768: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:44:21: AS 768: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:44:21: AS 768: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:44:21: AS 768: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:44:21: AS 768: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:44:21: AS 768: WARN: Prazo expira em: 2 dias
+2023-05-08 10:44:21: AS 768: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:44:21: AS 768: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:44:22: AS 768: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:44:22: AS 768: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:44:22: AS 768: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:44:22: AS 768: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:44:22: AS 768: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 10:44:23: AS 768: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:44:23: AS 768: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:44:23: AS 768: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:44:24: AS 768: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:44:24: AS 768: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:44:47: AS 16236: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:44:47: AS 16236: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:44:47: AS 16236: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:44:47: AS 16236: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:44:47: AS 16236: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:44:47: AS 16236: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:44:47: AS 16236: WARN: Prazo expira em: 2 dias
+2023-05-08 10:44:47: AS 16236: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:44:47: AS 16236: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:44:48: AS 16236: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:44:48: AS 16236: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:44:49: AS 16236: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:44:49: AS 16236: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:44:49: AS 16236: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:44:49: AS 16236: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:44:50: AS 16236: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:44:50: AS 16236: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:44:50: AS 16236: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:44:50: AS 16236: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:45:55: AS 20792: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:45:55: AS 20792: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:45:55: AS 20792: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:45:55: AS 20792: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:45:55: AS 20792: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:45:55: AS 20792: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:45:55: AS 20792: WARN: Prazo expira em: 2 dias
+2023-05-08 10:45:55: AS 20792: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:45:55: AS 20792: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:45:56: AS 20792: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:45:56: AS 20792: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:45:56: AS 20792: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:45:56: AS 20792: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:45:56: AS 20792: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:45:56: AS 20792: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:45:57: AS 20792: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:45:57: AS 20792: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:45:57: AS 20792: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:45:57: AS 20792: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:47:08: AS 7560: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:47:08: AS 7560: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:47:08: AS 7560: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:47:08: AS 7560: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:47:08: AS 7560: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:47:08: AS 7560: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:47:08: AS 7560: WARN: Prazo expira em: 2 dias
+2023-05-08 10:47:08: AS 7560: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:47:08: AS 7560: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:47:09: AS 7560: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:47:09: AS 7560: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:47:09: AS 7560: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:47:09: AS 7560: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:47:09: AS 7560: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:47:09: AS 7560: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:47:10: AS 7560: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:47:10: AS 7560: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:47:10: AS 7560: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:47:10: AS 7560: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:47:33: AS 17848: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:47:33: AS 17848: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:47:33: AS 17848: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:47:33: AS 17848: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:47:33: AS 17848: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:47:33: AS 17848: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:47:33: AS 17848: WARN: Prazo expira em: 2 dias
+2023-05-08 10:47:33: AS 17848: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:47:33: AS 17848: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:47:34: AS 17848: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:47:34: AS 17848: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:47:34: AS 17848: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:47:34: AS 17848: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:47:34: AS 17848: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:47:34: AS 17848: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:47:35: AS 17848: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:47:35: AS 17848: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:47:36: AS 17848: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:47:36: AS 17848: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 10:48:15: AS 20148: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 10:48:15: AS 20148: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 10:48:15: AS 20148: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 10:48:15: AS 20148: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 10:48:15: AS 20148: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 10:48:15: AS 20148: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 10:48:15: AS 20148: WARN: Prazo expira em: 2 dias
+2023-05-08 10:48:15: AS 20148: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:48:15: AS 20148: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:48:16: AS 20148: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:48:16: AS 20148: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:48:16: AS 20148: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:48:16: AS 20148: INFO: Utilizando versao PAF: NAO
+2023-05-08 10:48:16: AS 20148: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 10:48:17: AS 20148: INFO: Estado do banco de dados: 1647978652
+2023-05-08 10:48:17: AS 20148: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 10:48:17: AS 20148: INFO: Informações do banco de dados carregadas!
+2023-05-08 10:48:18: AS 20148: INFO: Timezone do Banco já é GMT+3
+2023-05-08 10:48:18: AS 20148: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:20:29: AS 12744: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:20:29: AS 12744: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:20:29: AS 12744: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:20:30: AS 12744: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:20:30: AS 12744: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:20:30: AS 12744: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:20:30: AS 12744: WARN: Prazo expira em: 2 dias
+2023-05-08 11:20:30: AS 12744: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:20:30: AS 12744: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:20:31: AS 12744: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:20:31: AS 12744: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:20:31: AS 12744: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:20:31: AS 12744: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:20:31: AS 12744: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:20:31: AS 12744: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:20:32: AS 12744: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:20:32: AS 12744: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:20:33: AS 12744: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:20:33: AS 12744: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:21:06: AS 20240: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:21:06: AS 20240: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:21:06: AS 20240: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:21:06: AS 20240: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:21:06: AS 20240: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:21:06: AS 20240: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:21:06: AS 20240: WARN: Prazo expira em: 2 dias
+2023-05-08 11:21:06: AS 20240: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:21:06: AS 20240: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:21:07: AS 20240: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:21:07: AS 20240: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:21:07: AS 20240: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:21:07: AS 20240: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:21:07: AS 20240: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:21:08: AS 20240: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:21:08: AS 20240: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:21:08: AS 20240: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:21:09: AS 20240: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:21:09: AS 20240: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:44:23: AS 9224: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:44:23: AS 9224: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:44:23: AS 9224: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:44:23: AS 9224: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:44:23: AS 9224: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:44:23: AS 9224: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:44:23: AS 9224: WARN: Prazo expira em: 2 dias
+2023-05-08 11:44:23: AS 9224: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:44:24: AS 9224: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:44:24: AS 9224: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:44:24: AS 9224: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:44:25: AS 9224: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:44:25: AS 9224: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:44:25: AS 9224: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:44:25: AS 9224: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:44:26: AS 9224: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:44:26: AS 9224: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:44:26: AS 9224: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:44:26: AS 9224: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:44:49: AS 18216: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:44:49: AS 18216: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:44:49: AS 18216: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:44:49: AS 18216: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:44:49: AS 18216: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:44:49: AS 18216: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:44:49: AS 18216: WARN: Prazo expira em: 2 dias
+2023-05-08 11:44:49: AS 18216: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:44:50: AS 18216: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:44:50: AS 18216: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:44:50: AS 18216: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:44:51: AS 18216: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:44:51: AS 18216: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:44:51: AS 18216: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:44:51: AS 18216: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:44:52: AS 18216: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:44:52: AS 18216: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:44:52: AS 18216: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:44:52: AS 18216: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:45:23: AS 4532: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:45:23: AS 4532: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:45:23: AS 4532: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:45:24: AS 4532: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:45:24: AS 4532: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:45:24: AS 4532: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:45:24: AS 4532: WARN: Prazo expira em: 2 dias
+2023-05-08 11:45:24: AS 4532: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:45:24: AS 4532: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:45:24: AS 4532: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:45:24: AS 4532: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:45:25: AS 4532: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:45:25: AS 4532: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:45:25: AS 4532: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:45:25: AS 4532: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:45:26: AS 4532: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:45:26: AS 4532: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:45:26: AS 4532: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:45:26: AS 4532: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:46:27: AS 17116: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:46:27: AS 17116: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:46:27: AS 17116: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:46:27: AS 17116: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:46:27: AS 17116: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:46:27: AS 17116: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:46:27: AS 17116: WARN: Prazo expira em: 2 dias
+2023-05-08 11:46:27: AS 17116: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:46:27: AS 17116: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:46:28: AS 17116: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:46:28: AS 17116: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:46:28: AS 17116: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:46:28: AS 17116: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:46:28: AS 17116: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:46:28: AS 17116: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:46:29: AS 17116: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:46:29: AS 17116: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:46:30: AS 17116: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:46:30: AS 17116: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:46:34: AS 18048: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:46:34: AS 18048: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:46:34: AS 18048: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:46:34: AS 18048: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:46:34: AS 18048: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:46:34: AS 18048: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:46:34: AS 18048: WARN: Prazo expira em: 2 dias
+2023-05-08 11:46:34: AS 18048: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:46:34: AS 18048: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:46:35: AS 18048: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:46:35: AS 18048: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:46:35: AS 18048: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:46:35: AS 18048: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:46:35: AS 18048: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:46:35: AS 18048: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:46:36: AS 18048: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:46:36: AS 18048: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:46:37: AS 18048: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:46:37: AS 18048: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:47:18: AS 22072: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:47:18: AS 22072: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:47:18: AS 22072: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:47:18: AS 22072: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:47:18: AS 22072: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:47:18: AS 22072: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:47:18: AS 22072: WARN: Prazo expira em: 2 dias
+2023-05-08 11:47:18: AS 22072: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:47:18: AS 22072: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:47:19: AS 22072: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:47:19: AS 22072: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:47:19: AS 22072: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:47:19: AS 22072: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:47:19: AS 22072: INFO: Conectando banco de dados 'postoum' em 'localhost' user 'postgres'
+2023-05-08 11:47:19: AS 22072: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:47:20: AS 22072: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:47:20: AS 22072: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:47:21: AS 22072: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:47:21: AS 22072: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:48:20: AS 15800: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:48:20: AS 15800: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:48:20: AS 15800: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:48:20: AS 15800: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:48:20: AS 15800: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:48:20: AS 15800: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:48:20: AS 15800: WARN: Prazo expira em: 2 dias
+2023-05-08 11:48:20: AS 15800: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:48:20: AS 15800: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:48:21: AS 15800: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:48:21: AS 15800: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:48:21: AS 15800: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:48:21: AS 15800: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:48:21: AS 15800: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:48:21: AS 15800: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:48:22: AS 15800: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:48:22: AS 15800: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:48:22: AS 15800: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:48:23: AS 15800: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:48:38: AS 17748: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:48:38: AS 17748: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:48:38: AS 17748: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:48:38: AS 17748: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:48:38: AS 17748: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:48:38: AS 17748: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:48:38: AS 17748: WARN: Prazo expira em: 2 dias
+2023-05-08 11:48:39: AS 17748: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:48:39: AS 17748: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:48:39: AS 17748: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:48:39: AS 17748: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:48:40: AS 17748: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:48:40: AS 17748: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:48:40: AS 17748: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:48:40: AS 17748: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:48:41: AS 17748: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:48:41: AS 17748: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:48:41: AS 17748: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:48:41: AS 17748: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:49:10: AS 8560: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:49:10: AS 8560: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:49:10: AS 8560: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:49:10: AS 8560: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:49:10: AS 8560: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:49:10: AS 8560: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:49:10: AS 8560: WARN: Prazo expira em: 2 dias
+2023-05-08 11:49:10: AS 8560: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:49:10: AS 8560: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:49:11: AS 8560: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:49:11: AS 8560: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:49:11: AS 8560: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:49:11: AS 8560: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:49:11: AS 8560: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:49:11: AS 8560: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:49:12: AS 8560: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:49:12: AS 8560: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:49:12: AS 8560: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:49:12: AS 8560: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:49:46: AS 22272: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:49:46: AS 22272: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:49:46: AS 22272: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:49:46: AS 22272: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:49:46: AS 22272: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:49:46: AS 22272: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:49:46: AS 22272: WARN: Prazo expira em: 2 dias
+2023-05-08 11:49:46: AS 22272: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:49:47: AS 22272: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:49:47: AS 22272: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:49:47: AS 22272: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:49:48: AS 22272: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:49:48: AS 22272: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:49:48: AS 22272: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:49:48: AS 22272: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:49:49: AS 22272: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:49:49: AS 22272: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:49:49: AS 22272: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:49:49: AS 22272: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:52:17: AS 1540: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:52:17: AS 1540: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:52:17: AS 1540: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:52:17: AS 1540: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:52:17: AS 1540: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:52:17: AS 1540: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:52:17: AS 1540: WARN: Prazo expira em: 2 dias
+2023-05-08 11:52:17: AS 1540: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:52:18: AS 1540: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:52:18: AS 1540: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:52:19: AS 1540: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:52:19: AS 1540: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:52:19: AS 1540: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:52:19: AS 1540: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:52:19: AS 1540: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:52:20: AS 1540: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:52:20: AS 1540: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:52:20: AS 1540: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:52:20: AS 1540: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:52:35: AS 17624: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:52:35: AS 17624: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:52:35: AS 17624: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:52:35: AS 17624: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:52:35: AS 17624: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:52:35: AS 17624: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:52:35: AS 17624: WARN: Prazo expira em: 2 dias
+2023-05-08 11:52:35: AS 17624: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:52:36: AS 17624: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:52:36: AS 17624: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:52:36: AS 17624: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:52:37: AS 17624: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:52:37: AS 17624: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:52:37: AS 17624: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:52:37: AS 17624: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:52:38: AS 17624: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:52:38: AS 17624: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:52:38: AS 17624: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:52:38: AS 17624: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 11:53:05: AS 16464: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 11:53:05: AS 16464: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 11:53:05: AS 16464: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 11:53:05: AS 16464: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 11:53:05: AS 16464: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 11:53:05: AS 16464: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 11:53:05: AS 16464: WARN: Prazo expira em: 2 dias
+2023-05-08 11:53:05: AS 16464: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:53:05: AS 16464: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:53:06: AS 16464: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:53:06: AS 16464: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:53:06: AS 16464: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:53:06: AS 16464: INFO: Utilizando versao PAF: NAO
+2023-05-08 11:53:06: AS 16464: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 11:53:06: AS 16464: INFO: Estado do banco de dados: 1647978652
+2023-05-08 11:53:07: AS 16464: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 11:53:07: AS 16464: INFO: Informações do banco de dados carregadas!
+2023-05-08 11:53:07: AS 16464: INFO: Timezone do Banco já é GMT+3
+2023-05-08 11:53:07: AS 16464: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:33:51: AS 8768: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:33:51: AS 8768: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:33:51: AS 8768: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:33:51: AS 8768: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:33:51: AS 8768: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:33:51: AS 8768: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:33:51: AS 8768: WARN: Prazo expira em: 2 dias
+2023-05-08 13:33:51: AS 8768: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:33:51: AS 8768: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:33:52: AS 8768: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:33:52: AS 8768: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:33:52: AS 8768: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:33:52: AS 8768: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:33:52: AS 8768: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:33:52: AS 8768: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:33:53: AS 8768: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:33:53: AS 8768: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:33:54: AS 8768: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:33:54: AS 8768: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:34:07: AS 8436: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:34:07: AS 8436: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:34:07: AS 8436: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:34:07: AS 8436: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:34:07: AS 8436: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:34:07: AS 8436: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:34:07: AS 8436: WARN: Prazo expira em: 2 dias
+2023-05-08 13:34:07: AS 8436: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:34:07: AS 8436: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:34:08: AS 8436: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:34:08: AS 8436: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:34:08: AS 8436: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:34:08: AS 8436: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:34:08: AS 8436: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:34:08: AS 8436: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:34:09: AS 8436: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:34:09: AS 8436: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:34:10: AS 8436: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:34:10: AS 8436: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:34:20: AS 2176: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:34:20: AS 2176: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:34:20: AS 2176: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:34:20: AS 2176: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:34:20: AS 2176: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:34:20: AS 2176: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:34:20: AS 2176: WARN: Prazo expira em: 2 dias
+2023-05-08 13:34:20: AS 2176: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:34:20: AS 2176: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:34:21: AS 2176: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:34:21: AS 2176: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:34:21: AS 2176: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:34:22: AS 2176: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:34:22: AS 2176: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:34:22: AS 2176: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:34:22: AS 2176: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:34:22: AS 2176: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:34:23: AS 2176: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:34:23: AS 2176: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:36:23: AS 21712: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:36:23: AS 21712: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:36:23: AS 21712: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:36:23: AS 21712: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:36:23: AS 21712: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:36:23: AS 21712: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:36:23: AS 21712: WARN: Prazo expira em: 2 dias
+2023-05-08 13:36:23: AS 21712: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:36:23: AS 21712: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:36:24: AS 21712: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:36:24: AS 21712: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:36:24: AS 21712: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:36:24: AS 21712: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:36:24: AS 21712: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:36:24: AS 21712: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:36:25: AS 21712: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:36:25: AS 21712: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:36:25: AS 21712: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:36:25: AS 21712: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:36:59: AS 20680: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:36:59: AS 20680: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:36:59: AS 20680: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:36:59: AS 20680: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:36:59: AS 20680: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:36:59: AS 20680: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:36:59: AS 20680: WARN: Prazo expira em: 2 dias
+2023-05-08 13:36:59: AS 20680: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:36:59: AS 20680: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:37:00: AS 20680: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:37:00: AS 20680: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:37:00: AS 20680: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:37:00: AS 20680: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:37:00: AS 20680: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:37:01: AS 20680: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:37:01: AS 20680: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:37:01: AS 20680: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:37:02: AS 20680: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:37:02: AS 20680: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:37:11: AS 17784: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:37:11: AS 17784: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:37:11: AS 17784: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:37:11: AS 17784: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:37:11: AS 17784: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:37:11: AS 17784: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:37:11: AS 17784: WARN: Prazo expira em: 2 dias
+2023-05-08 13:37:11: AS 17784: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:37:11: AS 17784: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:37:11: AS 17784: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:37:11: AS 17784: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:37:12: AS 17784: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:37:12: AS 17784: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:37:12: AS 17784: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:37:12: AS 17784: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:37:13: AS 17784: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:37:13: AS 17784: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:37:13: AS 17784: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:37:13: AS 17784: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:40:04: AS 21400: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:40:04: AS 21400: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:40:04: AS 21400: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:40:04: AS 21400: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:40:04: AS 21400: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:40:04: AS 21400: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:40:04: AS 21400: WARN: Prazo expira em: 2 dias
+2023-05-08 13:40:04: AS 21400: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:04: AS 21400: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:05: AS 21400: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:05: AS 21400: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:05: AS 21400: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:05: AS 21400: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:40:05: AS 21400: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:06: AS 21400: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:06: AS 21400: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:06: AS 21400: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:07: AS 21400: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:07: AS 21400: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:40:21: AS 14820: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:40:21: AS 14820: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:40:21: AS 14820: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:40:21: AS 14820: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:40:21: AS 14820: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:40:21: AS 14820: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:40:21: AS 14820: WARN: Prazo expira em: 2 dias
+2023-05-08 13:40:21: AS 14820: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:21: AS 14820: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:22: AS 14820: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:22: AS 14820: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:23: AS 14820: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:23: AS 14820: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:40:23: AS 14820: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:23: AS 14820: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:24: AS 14820: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:24: AS 14820: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:24: AS 14820: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:24: AS 14820: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:40:54: AS 9632: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:40:54: AS 9632: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:40:54: AS 9632: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:40:54: AS 9632: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:40:54: AS 9632: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:40:54: AS 9632: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:40:54: AS 9632: WARN: Prazo expira em: 2 dias
+2023-05-08 13:40:54: AS 9632: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:54: AS 9632: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:55: AS 9632: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:55: AS 9632: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:55: AS 9632: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:55: AS 9632: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:40:55: AS 9632: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:40:55: AS 9632: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:40:56: AS 9632: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:40:56: AS 9632: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:40:56: AS 9632: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:40:56: AS 9632: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:46:12: AS 3928: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:46:12: AS 3928: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:46:12: AS 3928: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:46:12: AS 3928: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:46:12: AS 3928: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:46:12: AS 3928: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:46:12: AS 3928: WARN: Prazo expira em: 2 dias
+2023-05-08 13:46:12: AS 3928: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:13: AS 3928: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:13: AS 3928: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:13: AS 3928: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:14: AS 3928: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:14: AS 3928: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:46:14: AS 3928: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:14: AS 3928: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:15: AS 3928: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:15: AS 3928: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:15: AS 3928: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:15: AS 3928: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:46:30: AS 14388: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:46:30: AS 14388: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:46:30: AS 14388: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:46:30: AS 14388: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:46:30: AS 14388: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:46:30: AS 14388: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:46:30: AS 14388: WARN: Prazo expira em: 2 dias
+2023-05-08 13:46:30: AS 14388: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:30: AS 14388: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:31: AS 14388: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:31: AS 14388: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:31: AS 14388: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:31: AS 14388: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:46:31: AS 14388: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:31: AS 14388: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:32: AS 14388: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:32: AS 14388: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:32: AS 14388: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:33: AS 14388: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:46:41: AS 10832: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:46:41: AS 10832: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:46:41: AS 10832: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:46:41: AS 10832: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:46:41: AS 10832: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:46:41: AS 10832: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:46:41: AS 10832: WARN: Prazo expira em: 2 dias
+2023-05-08 13:46:41: AS 10832: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:41: AS 10832: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:41: AS 10832: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:41: AS 10832: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:42: AS 10832: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:42: AS 10832: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:46:42: AS 10832: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:46:42: AS 10832: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:46:43: AS 10832: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:46:43: AS 10832: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:46:43: AS 10832: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:46:43: AS 10832: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:54:34: AS 22928: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:54:34: AS 22928: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:54:34: AS 22928: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:54:34: AS 22928: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:54:34: AS 22928: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:54:34: AS 22928: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:54:34: AS 22928: WARN: Prazo expira em: 2 dias
+2023-05-08 13:54:34: AS 22928: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:54:35: AS 22928: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:54:35: AS 22928: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:54:35: AS 22928: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:54:36: AS 22928: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:54:36: AS 22928: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:54:36: AS 22928: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:54:36: AS 22928: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:54:37: AS 22928: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:54:37: AS 22928: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:54:37: AS 22928: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:54:37: AS 22928: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:54:53: AS 8228: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:54:53: AS 8228: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:54:53: AS 8228: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:54:53: AS 8228: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:54:53: AS 8228: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:54:53: AS 8228: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:54:53: AS 8228: WARN: Prazo expira em: 2 dias
+2023-05-08 13:54:53: AS 8228: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:54:53: AS 8228: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:54:54: AS 8228: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:54:54: AS 8228: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:54:54: AS 8228: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:54:54: AS 8228: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:54:54: AS 8228: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:54:54: AS 8228: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:54:55: AS 8228: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:54:55: AS 8228: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:54:55: AS 8228: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:54:56: AS 8228: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 13:55:03: AS 5496: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 13:55:03: AS 5496: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 13:55:03: AS 5496: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 13:55:03: AS 5496: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 13:55:03: AS 5496: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 13:55:03: AS 5496: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 13:55:03: AS 5496: WARN: Prazo expira em: 2 dias
+2023-05-08 13:55:03: AS 5496: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:55:04: AS 5496: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:55:04: AS 5496: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:55:04: AS 5496: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:55:04: AS 5496: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:55:05: AS 5496: INFO: Utilizando versao PAF: NAO
+2023-05-08 13:55:05: AS 5496: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 13:55:05: AS 5496: INFO: Estado do banco de dados: 1647978652
+2023-05-08 13:55:05: AS 5496: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 13:55:05: AS 5496: INFO: Informações do banco de dados carregadas!
+2023-05-08 13:55:06: AS 5496: INFO: Timezone do Banco já é GMT+3
+2023-05-08 13:55:06: AS 5496: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:05:08: AS 16892: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:05:08: AS 16892: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:05:08: AS 16892: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:05:08: AS 16892: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:05:08: AS 16892: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:05:08: AS 16892: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:05:08: AS 16892: WARN: Prazo expira em: 2 dias
+2023-05-08 14:05:08: AS 16892: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:05:08: AS 16892: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:05:09: AS 16892: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:05:09: AS 16892: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:05:09: AS 16892: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:05:10: AS 16892: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:05:10: AS 16892: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:05:10: AS 16892: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:05:10: AS 16892: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:05:10: AS 16892: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:05:11: AS 16892: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:05:11: AS 16892: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:05:24: AS 21320: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:05:24: AS 21320: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:05:24: AS 21320: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:05:24: AS 21320: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:05:24: AS 21320: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:05:24: AS 21320: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:05:24: AS 21320: WARN: Prazo expira em: 2 dias
+2023-05-08 14:05:24: AS 21320: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:05:24: AS 21320: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:05:25: AS 21320: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:05:25: AS 21320: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:05:26: AS 21320: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:05:26: AS 21320: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:05:26: AS 21320: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:05:26: AS 21320: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:05:27: AS 21320: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:05:27: AS 21320: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:05:27: AS 21320: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:05:27: AS 21320: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:06:07: AS 21332: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:06:07: AS 21332: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:06:07: AS 21332: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:06:07: AS 21332: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:06:07: AS 21332: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:06:07: AS 21332: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:06:07: AS 21332: WARN: Prazo expira em: 2 dias
+2023-05-08 14:06:07: AS 21332: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:06:07: AS 21332: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:06:08: AS 21332: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:06:08: AS 21332: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:06:08: AS 21332: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:06:08: AS 21332: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:06:08: AS 21332: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:06:08: AS 21332: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:06:09: AS 21332: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:06:09: AS 21332: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:06:09: AS 21332: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:06:09: AS 21332: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:15:32: AS 16836: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:15:32: AS 16836: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:15:32: AS 16836: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:15:32: AS 16836: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:15:32: AS 16836: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:15:32: AS 16836: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:15:32: AS 16836: WARN: Prazo expira em: 2 dias
+2023-05-08 14:15:32: AS 16836: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:15:33: AS 16836: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:15:33: AS 16836: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:15:33: AS 16836: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:15:34: AS 16836: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:15:34: AS 16836: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:15:34: AS 16836: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:15:34: AS 16836: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:15:35: AS 16836: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:15:35: AS 16836: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:15:35: AS 16836: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:15:35: AS 16836: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:15:48: AS 20328: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:15:48: AS 20328: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:15:48: AS 20328: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:15:48: AS 20328: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:15:48: AS 20328: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:15:48: AS 20328: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:15:48: AS 20328: WARN: Prazo expira em: 2 dias
+2023-05-08 14:15:48: AS 20328: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:15:49: AS 20328: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:15:49: AS 20328: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:15:49: AS 20328: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:15:50: AS 20328: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:15:50: AS 20328: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:15:50: AS 20328: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:15:50: AS 20328: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:15:51: AS 20328: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:15:51: AS 20328: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:15:51: AS 20328: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:15:51: AS 20328: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:16:00: AS 5552: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:16:00: AS 5552: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:16:00: AS 5552: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:16:00: AS 5552: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:16:00: AS 5552: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:16:00: AS 5552: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:16:00: AS 5552: WARN: Prazo expira em: 2 dias
+2023-05-08 14:16:00: AS 5552: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:16:00: AS 5552: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:16:01: AS 5552: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:16:01: AS 5552: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:16:01: AS 5552: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:16:01: AS 5552: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:16:01: AS 5552: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:16:01: AS 5552: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:16:02: AS 5552: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:16:02: AS 5552: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:16:02: AS 5552: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:16:02: AS 5552: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:24:37: AS 19128: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:24:37: AS 19128: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:24:37: AS 19128: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:24:37: AS 19128: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:24:37: AS 19128: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:24:37: AS 19128: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:24:37: AS 19128: WARN: Prazo expira em: 2 dias
+2023-05-08 14:24:37: AS 19128: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:24:38: AS 19128: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:24:38: AS 19128: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:24:38: AS 19128: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:24:39: AS 19128: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:24:39: AS 19128: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:24:39: AS 19128: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:24:39: AS 19128: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:24:40: AS 19128: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:24:40: AS 19128: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:24:40: AS 19128: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:24:40: AS 19128: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:24:53: AS 20788: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:24:53: AS 20788: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:24:53: AS 20788: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:24:53: AS 20788: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:24:53: AS 20788: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:24:53: AS 20788: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:24:53: AS 20788: WARN: Prazo expira em: 2 dias
+2023-05-08 14:24:53: AS 20788: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:24:54: AS 20788: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:24:54: AS 20788: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:24:54: AS 20788: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:24:55: AS 20788: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:24:55: AS 20788: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:24:55: AS 20788: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:24:55: AS 20788: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:24:56: AS 20788: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:24:56: AS 20788: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:24:56: AS 20788: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:24:56: AS 20788: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:25:07: AS 20232: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:25:07: AS 20232: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:25:07: AS 20232: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:25:07: AS 20232: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:25:07: AS 20232: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:25:07: AS 20232: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:25:07: AS 20232: WARN: Prazo expira em: 2 dias
+2023-05-08 14:25:07: AS 20232: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:25:07: AS 20232: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:25:07: AS 20232: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:25:07: AS 20232: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:25:08: AS 20232: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:25:08: AS 20232: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:25:08: AS 20232: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:25:08: AS 20232: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:25:08: AS 20232: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:25:08: AS 20232: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:25:09: AS 20232: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:25:09: AS 20232: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:26:13: AS 14436: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:26:13: AS 14436: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:26:13: AS 14436: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:26:13: AS 14436: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:26:13: AS 14436: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:26:13: AS 14436: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:26:13: AS 14436: WARN: Prazo expira em: 2 dias
+2023-05-08 14:26:13: AS 14436: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:26:14: AS 14436: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:26:14: AS 14436: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:26:14: AS 14436: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:26:15: AS 14436: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:26:15: AS 14436: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:26:15: AS 14436: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:26:15: AS 14436: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:26:16: AS 14436: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:26:16: AS 14436: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:26:16: AS 14436: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:26:16: AS 14436: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:26:32: AS 11684: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:26:32: AS 11684: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:26:32: AS 11684: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:26:32: AS 11684: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:26:32: AS 11684: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:26:32: AS 11684: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:26:32: AS 11684: WARN: Prazo expira em: 2 dias
+2023-05-08 14:26:32: AS 11684: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:26:33: AS 11684: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:26:33: AS 11684: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:26:33: AS 11684: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:26:34: AS 11684: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:26:34: AS 11684: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:26:34: AS 11684: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:26:34: AS 11684: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:26:35: AS 11684: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:26:35: AS 11684: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:26:35: AS 11684: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:26:35: AS 11684: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:27:01: AS 19768: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:27:01: AS 19768: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:27:01: AS 19768: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:27:01: AS 19768: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:27:01: AS 19768: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:27:01: AS 19768: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:27:01: AS 19768: WARN: Prazo expira em: 2 dias
+2023-05-08 14:27:01: AS 19768: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:27:01: AS 19768: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:27:02: AS 19768: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:27:02: AS 19768: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:27:02: AS 19768: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:27:02: AS 19768: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:27:02: AS 19768: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:27:03: AS 19768: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:27:03: AS 19768: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:27:03: AS 19768: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:27:03: AS 19768: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:27:04: AS 19768: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:30:35: AS 15080: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:30:35: AS 15080: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:30:35: AS 15080: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:30:35: AS 15080: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:30:35: AS 15080: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:30:35: AS 15080: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:30:35: AS 15080: WARN: Prazo expira em: 2 dias
+2023-05-08 14:30:35: AS 15080: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:30:36: AS 15080: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:30:36: AS 15080: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:30:36: AS 15080: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:30:37: AS 15080: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:30:37: AS 15080: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:30:37: AS 15080: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:30:37: AS 15080: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:30:37: AS 15080: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:30:37: AS 15080: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:30:38: AS 15080: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:30:38: AS 15080: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:31:08: AS 2720: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:31:08: AS 2720: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:31:08: AS 2720: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:31:08: AS 2720: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:31:08: AS 2720: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:31:08: AS 2720: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:31:08: AS 2720: WARN: Prazo expira em: 2 dias
+2023-05-08 14:31:08: AS 2720: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:08: AS 2720: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:09: AS 2720: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:09: AS 2720: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:10: AS 2720: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:10: AS 2720: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:31:10: AS 2720: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:10: AS 2720: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:11: AS 2720: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:11: AS 2720: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:11: AS 2720: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:11: AS 2720: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:31:33: AS 11000: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:31:33: AS 11000: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:31:33: AS 11000: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:31:33: AS 11000: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:31:33: AS 11000: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:31:33: AS 11000: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:31:33: AS 11000: WARN: Prazo expira em: 2 dias
+2023-05-08 14:31:33: AS 11000: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:33: AS 11000: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:34: AS 11000: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:34: AS 11000: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:34: AS 11000: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:34: AS 11000: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:31:34: AS 11000: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:35: AS 11000: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:35: AS 11000: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:35: AS 11000: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:36: AS 11000: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:36: AS 11000: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:31:55: AS 776: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:31:55: AS 776: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:31:55: AS 776: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:31:55: AS 776: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:31:55: AS 776: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:31:55: AS 776: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:31:55: AS 776: WARN: Prazo expira em: 2 dias
+2023-05-08 14:31:55: AS 776: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:55: AS 776: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:56: AS 776: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:56: AS 776: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:56: AS 776: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:56: AS 776: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:31:56: AS 776: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:31:57: AS 776: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:31:57: AS 776: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:31:57: AS 776: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:31:58: AS 776: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:31:58: AS 776: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:32:04: AS 1064: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:32:04: AS 1064: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:32:04: AS 1064: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:32:04: AS 1064: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:32:04: AS 1064: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:32:04: AS 1064: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:32:04: AS 1064: WARN: Prazo expira em: 2 dias
+2023-05-08 14:32:04: AS 1064: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:32:04: AS 1064: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:32:04: AS 1064: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:32:04: AS 1064: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:32:05: AS 1064: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:32:05: AS 1064: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:32:05: AS 1064: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:32:05: AS 1064: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:32:06: AS 1064: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:32:06: AS 1064: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:32:06: AS 1064: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:32:06: AS 1064: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:34:02: AS 16744: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:34:02: AS 16744: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:34:02: AS 16744: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:34:03: AS 16744: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:34:03: AS 16744: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:34:03: AS 16744: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:34:03: AS 16744: WARN: Prazo expira em: 2 dias
+2023-05-08 14:34:03: AS 16744: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:03: AS 16744: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:04: AS 16744: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:04: AS 16744: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:04: AS 16744: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:04: AS 16744: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:34:04: AS 16744: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:04: AS 16744: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:05: AS 16744: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:05: AS 16744: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:05: AS 16744: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:06: AS 16744: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:34:20: AS 2176: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:34:20: AS 2176: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:34:21: AS 2176: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:34:21: AS 2176: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:34:21: AS 2176: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:34:21: AS 2176: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:34:21: AS 2176: WARN: Prazo expira em: 2 dias
+2023-05-08 14:34:21: AS 2176: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:21: AS 2176: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:22: AS 2176: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:22: AS 2176: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:22: AS 2176: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:22: AS 2176: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:34:22: AS 2176: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:22: AS 2176: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:23: AS 2176: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:23: AS 2176: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:23: AS 2176: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:24: AS 2176: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:34:31: AS 11772: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:34:31: AS 11772: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:34:31: AS 11772: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:34:31: AS 11772: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:34:31: AS 11772: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:34:31: AS 11772: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:34:31: AS 11772: WARN: Prazo expira em: 2 dias
+2023-05-08 14:34:31: AS 11772: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:31: AS 11772: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:32: AS 11772: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:32: AS 11772: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:32: AS 11772: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:32: AS 11772: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:34:32: AS 11772: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:34:32: AS 11772: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:34:33: AS 11772: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:34:33: AS 11772: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:34:33: AS 11772: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:34:33: AS 11772: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:35:54: AS 6808: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:35:54: AS 6808: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:35:54: AS 6808: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:35:54: AS 6808: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:35:54: AS 6808: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:35:54: AS 6808: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:35:54: AS 6808: WARN: Prazo expira em: 2 dias
+2023-05-08 14:35:54: AS 6808: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:35:55: AS 6808: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:35:55: AS 6808: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:35:55: AS 6808: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:35:56: AS 6808: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:35:56: AS 6808: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:35:56: AS 6808: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:35:56: AS 6808: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:35:56: AS 6808: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:35:56: AS 6808: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:35:57: AS 6808: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:35:57: AS 6808: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:36:55: AS 5360: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:36:55: AS 5360: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:36:55: AS 5360: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:36:55: AS 5360: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:36:55: AS 5360: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:36:55: AS 5360: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:36:55: AS 5360: WARN: Prazo expira em: 2 dias
+2023-05-08 14:36:55: AS 5360: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:36:56: AS 5360: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:36:56: AS 5360: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:36:56: AS 5360: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:36:57: AS 5360: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:36:57: AS 5360: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:36:57: AS 5360: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:36:57: AS 5360: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:36:58: AS 5360: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:36:58: AS 5360: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:36:58: AS 5360: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:36:58: AS 5360: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:39:44: AS 8896: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:39:44: AS 8896: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:39:44: AS 8896: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:39:44: AS 8896: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:39:44: AS 8896: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:39:44: AS 8896: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:39:44: AS 8896: WARN: Prazo expira em: 2 dias
+2023-05-08 14:39:44: AS 8896: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:39:44: AS 8896: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:39:45: AS 8896: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:39:45: AS 8896: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:39:45: AS 8896: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:39:45: AS 8896: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:39:45: AS 8896: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:39:45: AS 8896: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:39:46: AS 8896: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:39:46: AS 8896: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:39:47: AS 8896: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:39:47: AS 8896: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:48:33: AS 20052: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:48:33: AS 20052: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:48:33: AS 20052: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:48:33: AS 20052: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:48:33: AS 20052: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:48:33: AS 20052: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:48:33: AS 20052: WARN: Prazo expira em: 2 dias
+2023-05-08 14:48:33: AS 20052: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:48:34: AS 20052: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:48:34: AS 20052: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:48:34: AS 20052: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:48:35: AS 20052: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:48:35: AS 20052: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:48:35: AS 20052: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:48:35: AS 20052: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:48:36: AS 20052: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:48:36: AS 20052: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:48:36: AS 20052: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:48:36: AS 20052: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:51:09: AS 4292: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:51:09: AS 4292: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:51:09: AS 4292: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:51:09: AS 4292: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:51:09: AS 4292: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:51:09: AS 4292: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:51:09: AS 4292: WARN: Prazo expira em: 2 dias
+2023-05-08 14:51:09: AS 4292: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:51:10: AS 4292: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:51:10: AS 4292: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:51:10: AS 4292: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:51:11: AS 4292: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:51:11: AS 4292: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:51:11: AS 4292: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:51:11: AS 4292: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:51:12: AS 4292: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:51:12: AS 4292: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:51:12: AS 4292: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:51:12: AS 4292: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 14:52:48: AS 5484: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 14:52:48: AS 5484: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 14:52:48: AS 5484: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 14:52:48: AS 5484: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 14:52:48: AS 5484: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 14:52:48: AS 5484: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 14:52:48: AS 5484: WARN: Prazo expira em: 2 dias
+2023-05-08 14:52:48: AS 5484: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:52:49: AS 5484: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:52:49: AS 5484: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:52:49: AS 5484: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:52:50: AS 5484: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:52:50: AS 5484: INFO: Utilizando versao PAF: NAO
+2023-05-08 14:52:50: AS 5484: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 14:52:50: AS 5484: INFO: Estado do banco de dados: 1647978652
+2023-05-08 14:52:51: AS 5484: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 14:52:51: AS 5484: INFO: Informações do banco de dados carregadas!
+2023-05-08 14:52:51: AS 5484: INFO: Timezone do Banco já é GMT+3
+2023-05-08 14:52:51: AS 5484: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 15:04:06: AS 13268: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:04:06: AS 13268: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:04:06: AS 13268: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:04:06: AS 13268: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:04:06: AS 13268: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:04:06: AS 13268: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:04:06: AS 13268: WARN: Prazo expira em: 2 dias
+2023-05-08 15:04:06: AS 13268: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:04:06: AS 13268: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:04:07: AS 13268: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:04:07: AS 13268: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:04:07: AS 13268: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:04:07: AS 13268: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:04:07: AS 13268: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:04:07: AS 13268: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:04:08: AS 13268: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:04:08: AS 13268: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:04:08: AS 13268: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:04:09: AS 13268: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 15:16:06: AS 22032: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:16:06: AS 22032: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:16:06: AS 22032: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:16:06: AS 22032: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:16:06: AS 22032: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:16:06: AS 22032: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:16:06: AS 22032: WARN: Prazo expira em: 2 dias
+2023-05-08 15:16:06: AS 22032: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:16:07: AS 22032: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:16:07: AS 22032: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:16:07: AS 22032: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:16:08: AS 22032: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:16:08: AS 22032: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:16:08: AS 22032: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:16:08: AS 22032: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:16:08: AS 22032: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:16:08: AS 22032: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:16:09: AS 22032: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:16:09: AS 22032: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 15:27:58: AS 15772: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:27:58: AS 15772: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:27:58: AS 15772: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:27:58: AS 15772: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:27:58: AS 15772: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:27:58: AS 15772: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:27:58: AS 15772: WARN: Prazo expira em: 2 dias
+2023-05-08 15:27:58: AS 15772: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:27:58: AS 15772: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:27:59: AS 15772: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:27:59: AS 15772: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:27:59: AS 15772: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:27:59: AS 15772: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:27:59: AS 15772: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:28:00: AS 15772: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:28:00: AS 15772: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:28:00: AS 15772: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:28:01: AS 15772: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:28:01: AS 15772: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 15:41:06: AS 22436: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:41:06: AS 22436: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:41:06: AS 22436: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:41:06: AS 22436: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:41:06: AS 22436: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:41:06: AS 22436: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:41:06: AS 22436: WARN: Prazo expira em: 2 dias
+2023-05-08 15:41:06: AS 22436: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:41:07: AS 22436: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:41:08: AS 22436: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:41:08: AS 22436: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:41:08: AS 22436: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:41:08: AS 22436: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:41:08: AS 22436: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:41:08: AS 22436: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:41:09: AS 22436: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:41:09: AS 22436: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:41:09: AS 22436: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:41:09: AS 22436: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.
+2023-05-08 15:41:55: AS 19228: INFO: AutoSystem versao 3.3.1.47
+2023-05-08 15:41:55: AS 19228: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-08 15:41:55: AS 19228: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-08 15:41:55: AS 19228: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-08 15:41:55: AS 19228: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-08 15:41:55: AS 19228: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-08 15:41:55: AS 19228: WARN: Prazo expira em: 2 dias
+2023-05-08 15:41:55: AS 19228: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:41:55: AS 19228: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:41:56: AS 19228: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:41:56: AS 19228: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:41:56: AS 19228: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:41:56: AS 19228: INFO: Utilizando versao PAF: NAO
+2023-05-08 15:41:56: AS 19228: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-08 15:41:57: AS 19228: INFO: Estado do banco de dados: 1647978652
+2023-05-08 15:41:57: AS 19228: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-08 15:41:57: AS 19228: INFO: Informações do banco de dados carregadas!
+2023-05-08 15:41:58: AS 19228: INFO: Timezone do Banco já é GMT+3
+2023-05-08 15:41:58: AS 19228: INFO: Executável distribuidora não será executado. Módulo não liberado na chave de ativação.

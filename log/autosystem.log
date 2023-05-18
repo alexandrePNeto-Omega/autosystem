@@ -1,0 +1,256 @@
+2023-05-10 08:45:18: AS 1340: INFO: AutoSystem versao 3.3.1.47
+2023-05-10 08:45:18: AS 1340: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-10 08:45:18: AS 1340: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-10 08:45:18: AS 1340: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-10 08:45:18: AS 1340: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-10 08:45:18: AS 1340: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-10 08:45:18: AS 1340: WARN: Prazo expira em: 4 dias
+2023-05-10 08:45:22: AS 1340: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-10 08:45:23.072: DB: DEBUG: defcur_9932.execute: 'select * from usuario limit 0'
+2023-05-10 08:45:23.073: DB: DEBUG: defcur_9932.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='usuario'::regclass"
+2023-05-10 08:45:23.075: DB: DEBUG: defcur_9932.execute: 'select * from usuario_log limit 0'
+2023-05-10 08:45:23.075: DB: DEBUG: defcur_9932.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='usuario_log'::regclass"
+2023-05-10 08:45:23.075: DB: DEBUG: defcur_9932.execute: 'select dbstat from versao'
+2023-05-10 08:45:23.075: DB: DEBUG: Registrando usuario...
+2023-05-10 08:45:23.075: DB: DEBUG: defcur_9932.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:45:23.075: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:45:23.075: DB: DEBUG: defcur_9932.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:45:23.076: DB: DEBUG: defcur_9932.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:45:23.076: DB: DEBUG: defcur_9932.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:45:23.078: DB: DEBUG: defcur_9932.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (9932,-1::int8,'SUPORTE.WORKGROUP',1340::int8,'config_local','3.3.1.47')"
+2023-05-10 08:45:23.078: DB: DEBUG: defcur_9932.execute: 'commit'
+2023-05-10 08:45:23: AS 1340: INFO: Estado do banco de dados: 1682517412
+2023-05-10 08:45:23.079: DB: DEBUG: defcur_9932.execute: "select to_number(split_part(version(),' ',2),'9999')"
+2023-05-10 08:45:23.081: DB: DEBUG: defcur_9932.execute: "SELECT prorettype, proargtypes FROM pg_proc WHERE proname = 'pgd_gxid_f'"
+2023-05-10 08:45:23.142: DB: DEBUG: defcur_9932.execute: 'select * from pgd_hosts'
+2023-05-10 08:45:23.144: DB: DEBUG: defcur_9932.execute: 'select * from pgd_lsite'
+2023-05-10 08:45:23.144: DB: DEBUG: defcur_9932.execute: 'select p.*, ph.sid, ed.distribuidora from pessoa p join pgd_hosts ph on (p.grid=ph.pessoa) left join empresa_distribuidora ed on (p.grid=ed.empresa) join pgd_lsite pl on (ph.sid=pl.pgd_sid)'
+2023-05-10 08:45:23.151: DB: DEBUG: defcur_9932.execute: "select * from config where chave='nfe_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.151: DB: DEBUG: defcur_9932.execute: 'select True from nfe_config where empresa = 13059::int8'
+2023-05-10 08:45:23.154: DB: DEBUG: defcur_9932.execute: "select * from config where chave='nfse_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.154: DB: DEBUG: defcur_9932.execute: "select * from config where chave='nfce_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.154: DB: DEBUG: defcur_9932.execute: "select * from config where chave='mide_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.158: DB: DEBUG: defcur_9932.execute: "select * from config where chave='mide_cfe_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.160: DB: DEBUG: defcur_9932.execute: "select * from config where chave='mide_nfce_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.160: DB: DEBUG: defcur_9932.execute: "select * from config where chave='integracao_erp_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.160: DB: DEBUG: defcur_9932.execute: "select * from config where chave='destacar_imposto_venda_ref_documento' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.161: DB: DEBUG: defcur_9932.execute: "select * from config where chave='permite_envio_nfse_sem_email_cliente' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.161: DB: DEBUG: defcur_9932.execute: "select * from config where chave='rot_2023' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.161: DB: DEBUG: defcur_9932.execute: "select true from information_schema.columns where table_name = 'nfe_config' and  column_name = 'total_consultar'"
+2023-05-10 08:45:23.167: DB: DEBUG: defcur_9932.execute: "select regexp_replace(e.cpf, '[^0-9]', '', 'g') as cnpj, nc.total_consultar, nc.total_reprocessar from empresa e join nfe_config nc on(e.grid=nc.empresa) where e.flag='A' and e.grid=13059::int8"
+2023-05-10 08:45:23.170: DB: DEBUG: defcur_9932.execute: 'select * from empresa_nota_fiscal limit 1'
+2023-05-10 08:45:23.170: DB: DEBUG: defcur_9932.execute: 'select obriga_nf_inscr_estadual from empresa_nota_fiscal where empresa=13059::int8'
+2023-05-10 08:45:23.290: DB: DEBUG: pool getconn: 2
+2023-05-10 08:45:23.292: DB: DEBUG: Registrando usuario...
+2023-05-10 08:45:23.292: DB: DEBUG: intranet_consulta_api_1752.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:45:23.292: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:45:23.292: DB: DEBUG: intranet_consulta_api_1752.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:45:23.292: DB: DEBUG: intranet_consulta_api_1752.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:45:23.293: DB: DEBUG: intranet_consulta_api_1752.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:45:23.295: DB: DEBUG: intranet_consulta_api_1752.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (1752,-1::int8,'SUPORTE.WORKGROUP',1340::int8,'config_local','3.3.1.47')"
+2023-05-10 08:45:23.476: DB: DEBUG: pool getconn: 3
+2023-05-10 08:45:23.476: DB: DEBUG: Registrando usuario...
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:45:23.476: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (10092,-1::int8,'SUPORTE.WORKGROUP',1340::int8,'config_local','3.3.1.47')"
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: 'select * from exchange_intranet limit 0'
+2023-05-10 08:45:23.476: DB: DEBUG: data_nt_10092.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='exchange_intranet'::regclass"
+2023-05-10 08:45:23.492: DB: DEBUG: data_nt_10092.execute: "select valor, tipo from exchange_intranet where chave = 'dt_consulta_intranet' and estacao is null"
+2023-05-10 08:45:23.492: DB: DEBUG: data_nt_10092.execute: "select valor, tipo from exchange_intranet where chave = 'nfe_nfce_tag_icms_substituto' and estacao is null"
+2023-05-10 08:45:23.492: DB: DEBUG: pool putconn (data_nt): 2
+2023-05-10 08:45:23.492: DB: DEBUG: pool putconn (intranet_consulta_api): 1
+2023-05-10 08:45:23.492: DB: DEBUG: pool getconn: 2
+2023-05-10 08:45:23.496: DB: DEBUG: Registrando usuario...
+2023-05-10 08:45:23.496: DB: DEBUG: intranet_consulta_api_10092.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:45:23.496: DB: DEBUG: Cursores abertos inativos: [(1752, -1L, 'SUPORTE.WORKGROUP', <mx.DateTime.DateTime object for '2023-05-10 08:45:23,00' at 5180020>, 'config_local', '3.3.1.47', 1340, None)] 
+2023-05-10 08:45:23.496: DB: DEBUG: intranet_consulta_api_10092.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:45:23.496: DB: DEBUG: intranet_consulta_api_10092.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:45:23.496: DB: DEBUG: intranet_consulta_api_10092.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:45:23.496: DB: DEBUG: intranet_consulta_api_10092.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (10092,-1::int8,'SUPORTE.WORKGROUP',1340::int8,'config_local','3.3.1.47')"
+2023-05-10 08:45:23.687: DB: DEBUG: pool getconn: 3
+2023-05-10 08:45:23.687: DB: DEBUG: Registrando usuario...
+2023-05-10 08:45:23.687: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:45:23.687: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:45:23.687: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:45:23.687: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:45:23.688: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:45:23.690: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (22268,-1::int8,'SUPORTE.WORKGROUP',1340::int8,'config_local','3.3.1.47')"
+2023-05-10 08:45:23.690: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: "select valor, tipo from exchange_intranet where chave = 'dt_consulta_intranet' and estacao is null"
+2023-05-10 08:45:23.691: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_22268.execute: "select valor, tipo from exchange_intranet where chave = 'pdv_bloqueia_venda_hibrido_offline_dias' and estacao is null"
+2023-05-10 08:45:23.693: DB: DEBUG: pool putconn (pdv_bloqueia_venda_hibrido_offline_dias): 2
+2023-05-10 08:45:23.693: DB: DEBUG: pool putconn (intranet_consulta_api): 1
+2023-05-10 08:45:23.693: DB: DEBUG: defcur_9932.execute: "select * from config where chave='afericao_documento_fiscal' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.694: DB: DEBUG: defcur_9932.execute: "select * from config where chave='usar_consulta_credito_nova' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.694: DB: DEBUG: defcur_9932.execute: "select count(*) from empresa where flag='A'"
+2023-05-10 08:45:23.696: DB: DEBUG: defcur_9932.execute: "select * from config where chave='exibir_cliente_empresa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.696: DB: DEBUG: defcur_9932.execute: 'delete from empresa_distribuidora where empresa=13059::int8 and distribuidora is null'
+2023-05-10 08:45:23.697: DB: DEBUG: defcur_9932.execute: 'select ed.grid, e.cpf, ed.distribuidora, ed.conveniencia, ed.pista, ed.troca_oleo, ed.ts_ult_atualizacao from empresa e left join empresa_distribuidora ed on (ed.empresa=e.grid) where e.grid=13059::int8'
+2023-05-10 08:45:23.697: DB: DEBUG: defcur_9932.execute: 'select mc.chave, mc.motivo from motivo_config mc join motivo_movto mm on (mc.motivo=mm.grid)'
+2023-05-10 08:45:23.700: DB: DEBUG: defcur_9932.execute: 'select cc.chave, cc.conta from conta_config cc join conta c on (cc.conta=c.codigo)'
+2023-05-10 08:45:23.700: DB: DEBUG: defcur_9932.execute: 'select grid, codigo from grupo_pessoa'
+2023-05-10 08:45:23.704: DB: DEBUG: defcur_9932.execute: "select True from pg_catalog.pg_class where relname = 'exchange_emsys_gestao_config_empresa'"
+2023-05-10 08:45:23.707: DB: DEBUG: defcur_9932.execute: 'SELECT True FROM exchange_emsys_gestao_config_empresa WHERE empresa = 13059'
+2023-05-10 08:45:23: AS 1340: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-10 08:45:23.707: DB: DEBUG: defcur_9932.execute: 'select tipo_movto, grid from motivo_movto where not tipo_movto is null'
+2023-05-10 08:45:23.707: DB: DEBUG: defcur_9932.execute: 'select * from ponto_config limit 1'
+2023-05-10 08:45:23.710: DB: DEBUG: defcur_9932.execute: 'select * from config_geral'
+2023-05-10 08:45:23.710: DB: DEBUG: defcur_9932.execute: 'select * from versao_estacao limit 0'
+2023-05-10 08:45:23.710: DB: DEBUG: defcur_9932.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='versao_estacao'::regclass"
+2023-05-10 08:45:23.710: DB: DEBUG: defcur_9932.execute: 'select * from exchange_integracao_erp_config limit 0'
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='exchange_integracao_erp_config'::regclass"
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: 'select iecw.endereco from exchange_integracao_erp_config iec join exchange_integracao_erp_config_ws iecw on (iecw.integracao_erp_config = iec.grid) where iec.empresa = 13059'
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: 'select * from exc_reshop_config limit 0'
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='exc_reshop_config'::regclass"
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: 'select * from exc_reshop_config where empresa=13059::int8'
+2023-05-10 08:45:23: AS 1340: INFO: Informações do banco de dados carregadas!
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:45:23.711: DB: DEBUG: Cursores abertos inativos: [(10092, -1L, 'SUPORTE.WORKGROUP', <mx.DateTime.DateTime object for '2023-05-10 08:45:23,00' at 5106f38>, 'config_local', '3.3.1.47', 1340, None)] 
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:45:23.711: DB: DEBUG: defcur_9932.execute: "select * from config where chave='horario_verao_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:23.836: DB: DEBUG: defcur_9932.execute: "select * from config where chave='ajuste_auto_horario_verao_desativado' and empresa=13059 and usuario is null and estacao='SUPORTE.WORKGROUP'"
+2023-05-10 08:45:23.852: DB: DEBUG: defcur_9932.execute: "select to_number(split_part(version(),' ',2),'9999')"
+2023-05-10 08:45:23.852: DB: DEBUG: defcur_9932.execute: "select true from pg_user where usename = 'postgres' and usesuper=true"
+2023-05-10 08:45:24.088: DB: DEBUG: defcur_9932.execute: 'select inet_server_addr()'
+2023-05-10 08:45:24.088: DB: DEBUG: defcur_9932.execute: "select grid from config where chave='horario_verao_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:24.088: DB: DEBUG: defcur_9932.execute: "update config set tipo='boolean', valor='FALSE' where grid='8589934597'"
+2023-05-10 08:45:24: AS 1340: INFO: Timezone do Banco já é GMT+3
+2023-05-10 08:45:24.088: DB: DEBUG: defcur_9932.execute: 'select now()'
+2023-05-10 08:45:24.145: DB: DEBUG: defcur_9932.execute: "select * from config where chave='paf_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:45:24: AS 1340: INFO: Utilizando versao PAF: NAO
+C:\Users\omega\OneDrive\Documentos\AUTOSYSTEM_VERSIONS\_47\autosystem\config_local.exe\lzt\lztgtk.py:9405: Warning: g_value_get_int: assertion 'G_VALUE_HOLDS_INT (value)' failed
+----------- LztDialog show 2023-05-10 08:46:06 -----------
+Configurações salvas com sucesso!
+Retorno: 1
+----------- LztDialog quit 2023-05-10 08:46:07 -----------
+2023-05-10 08:46:08: AS 1340: INFO: Modulo config_local finalizado
+2023-05-10 08:47:26: AS 2588: INFO: AutoSystem versao 3.3.1.47
+2023-05-10 08:47:26: AS 2588: INFO: Gerado em: 23/03/2022 13:15:56
+2023-05-10 08:47:26: AS 2588: INFO: Nome da estacao: 'SUPORTE.WORKGROUP'
+2023-05-10 08:47:26: AS 2588: INFO: ASKEY Serial: NMNF-JKFM-FOBQ-JEIK
+2023-05-10 08:47:26: AS 2588: INFO: ASKEY Nome..: LINX SISTEMAS E CONSULTORIA LTDA
+2023-05-10 08:47:26: AS 2588: INFO: ASKEY CNPJ..: 54.517.628/0001-98
+2023-05-10 08:47:26: AS 2588: WARN: Prazo expira em: 4 dias
+2023-05-10 08:47:27: AS 2588: INFO: Conectando banco de dados 'postodois' em 'localhost' user 'postgres'
+2023-05-10 08:47:28.069: DB: DEBUG: defcur_22508.execute: 'select * from usuario limit 0'
+2023-05-10 08:47:28.069: DB: DEBUG: defcur_22508.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='usuario'::regclass"
+2023-05-10 08:47:28.069: DB: DEBUG: defcur_22508.execute: 'select * from usuario_log limit 0'
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='usuario_log'::regclass"
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: 'select dbstat from versao'
+2023-05-10 08:47:28.085: DB: DEBUG: Registrando usuario...
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:47:28.085: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (22508,-1::int8,'SUPORTE.WORKGROUP',2588::int8,'config_local','3.3.1.47')"
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: 'commit'
+2023-05-10 08:47:28: AS 2588: INFO: Estado do banco de dados: 1682517412
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: "select to_number(split_part(version(),' ',2),'9999')"
+2023-05-10 08:47:28.085: DB: DEBUG: defcur_22508.execute: "SELECT prorettype, proargtypes FROM pg_proc WHERE proname = 'pgd_gxid_f'"
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: 'select * from pgd_hosts'
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: 'select * from pgd_lsite'
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: 'select p.*, ph.sid, ed.distribuidora from pessoa p join pgd_hosts ph on (p.grid=ph.pessoa) left join empresa_distribuidora ed on (p.grid=ed.empresa) join pgd_lsite pl on (ph.sid=pl.pgd_sid)'
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: "select * from config where chave='nfe_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: 'select True from nfe_config where empresa = 13059::int8'
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: "select * from config where chave='nfse_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: "select * from config where chave='nfce_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.132: DB: DEBUG: defcur_22508.execute: "select * from config where chave='mide_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select * from config where chave='mide_cfe_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select * from config where chave='mide_nfce_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select * from config where chave='integracao_erp_ativa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select * from config where chave='destacar_imposto_venda_ref_documento' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select * from config where chave='permite_envio_nfse_sem_email_cliente' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select * from config where chave='rot_2023' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select true from information_schema.columns where table_name = 'nfe_config' and  column_name = 'total_consultar'"
+2023-05-10 08:47:28.148: DB: DEBUG: defcur_22508.execute: "select regexp_replace(e.cpf, '[^0-9]', '', 'g') as cnpj, nc.total_consultar, nc.total_reprocessar from empresa e join nfe_config nc on(e.grid=nc.empresa) where e.flag='A' and e.grid=13059::int8"
+2023-05-10 08:47:28.164: DB: DEBUG: defcur_22508.execute: 'select * from empresa_nota_fiscal limit 1'
+2023-05-10 08:47:28.164: DB: DEBUG: defcur_22508.execute: 'select obriga_nf_inscr_estadual from empresa_nota_fiscal where empresa=13059::int8'
+2023-05-10 08:47:28.259: DB: DEBUG: pool getconn: 2
+2023-05-10 08:47:28.273: DB: DEBUG: Registrando usuario...
+2023-05-10 08:47:28.273: DB: DEBUG: intranet_consulta_api_1028.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:47:28.273: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:47:28.273: DB: DEBUG: intranet_consulta_api_1028.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:47:28.273: DB: DEBUG: intranet_consulta_api_1028.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:47:28.273: DB: DEBUG: intranet_consulta_api_1028.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:47:28.273: DB: DEBUG: intranet_consulta_api_1028.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (1028,-1::int8,'SUPORTE.WORKGROUP',2588::int8,'config_local','3.3.1.47')"
+2023-05-10 08:47:28.447: DB: DEBUG: pool getconn: 3
+2023-05-10 08:47:28.447: DB: DEBUG: Registrando usuario...
+2023-05-10 08:47:28.447: DB: DEBUG: data_nt_6752.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:47:28.447: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:47:28.447: DB: DEBUG: data_nt_6752.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:47:28.447: DB: DEBUG: data_nt_6752.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:47:28.447: DB: DEBUG: data_nt_6752.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:47:28.447: DB: DEBUG: data_nt_6752.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (6752,-1::int8,'SUPORTE.WORKGROUP',2588::int8,'config_local','3.3.1.47')"
+2023-05-10 08:47:28.447: DB: DEBUG: data_nt_6752.execute: 'select * from exchange_intranet limit 0'
+2023-05-10 08:47:28.463: DB: DEBUG: data_nt_6752.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='exchange_intranet'::regclass"
+2023-05-10 08:47:28.463: DB: DEBUG: data_nt_6752.execute: "select valor, tipo from exchange_intranet where chave = 'dt_consulta_intranet' and estacao is null"
+2023-05-10 08:47:28.463: DB: DEBUG: data_nt_6752.execute: "select valor, tipo from exchange_intranet where chave = 'nfe_nfce_tag_icms_substituto' and estacao is null"
+2023-05-10 08:47:28.463: DB: DEBUG: pool putconn (data_nt): 2
+2023-05-10 08:47:28.463: DB: DEBUG: pool putconn (intranet_consulta_api): 1
+2023-05-10 08:47:28.463: DB: DEBUG: pool getconn: 2
+2023-05-10 08:47:28.463: DB: DEBUG: Registrando usuario...
+2023-05-10 08:47:28.463: DB: DEBUG: intranet_consulta_api_6752.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:47:28.463: DB: DEBUG: Cursores abertos inativos: [(1028, -1L, 'SUPORTE.WORKGROUP', <mx.DateTime.DateTime object for '2023-05-10 08:47:28,00' at 51f5020>, 'config_local', '3.3.1.47', 2588, None)] 
+2023-05-10 08:47:28.463: DB: DEBUG: intranet_consulta_api_6752.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:47:28.463: DB: DEBUG: intranet_consulta_api_6752.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:47:28.463: DB: DEBUG: intranet_consulta_api_6752.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:47:28.463: DB: DEBUG: intranet_consulta_api_6752.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (6752,-1::int8,'SUPORTE.WORKGROUP',2588::int8,'config_local','3.3.1.47')"
+2023-05-10 08:47:28.651: DB: DEBUG: pool getconn: 3
+2023-05-10 08:47:28.651: DB: DEBUG: Registrando usuario...
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:47:28.651: DB: DEBUG: Cursores abertos inativos: [] 
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: 'delete from usuario_pid where pid=pg_backend_pid()'
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: "SELECT true FROM pg_class as pc INNER JOIN pg_attribute a ON (pc.oid = a.attrelid) where pc.relname= 'usuario_pid' and attstattarget<0 and a.attname = 'localpid'"
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: "insert into usuario_pid (pid,usuario,estacao,localpid,modulo,versao) values (20844,-1::int8,'SUPORTE.WORKGROUP',2588::int8,'config_local','3.3.1.47')"
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: "select valor, tipo from exchange_intranet where chave = 'dt_consulta_intranet' and estacao is null"
+2023-05-10 08:47:28.651: DB: DEBUG: pdv_bloqueia_venda_hibrido_offline_dias_20844.execute: "select valor, tipo from exchange_intranet where chave = 'pdv_bloqueia_venda_hibrido_offline_dias' and estacao is null"
+2023-05-10 08:47:28.651: DB: DEBUG: pool putconn (pdv_bloqueia_venda_hibrido_offline_dias): 2
+2023-05-10 08:47:28.651: DB: DEBUG: pool putconn (intranet_consulta_api): 1
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: "select * from config where chave='afericao_documento_fiscal' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: "select * from config where chave='usar_consulta_credito_nova' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: "select count(*) from empresa where flag='A'"
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: "select * from config where chave='exibir_cliente_empresa' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: 'delete from empresa_distribuidora where empresa=13059::int8 and distribuidora is null'
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: 'select ed.grid, e.cpf, ed.distribuidora, ed.conveniencia, ed.pista, ed.troca_oleo, ed.ts_ult_atualizacao from empresa e left join empresa_distribuidora ed on (ed.empresa=e.grid) where e.grid=13059::int8'
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: 'select mc.chave, mc.motivo from motivo_config mc join motivo_movto mm on (mc.motivo=mm.grid)'
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: 'select cc.chave, cc.conta from conta_config cc join conta c on (cc.conta=c.codigo)'
+2023-05-10 08:47:28.651: DB: DEBUG: defcur_22508.execute: 'select grid, codigo from grupo_pessoa'
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: "select True from pg_catalog.pg_class where relname = 'exchange_emsys_gestao_config_empresa'"
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'SELECT True FROM exchange_emsys_gestao_config_empresa WHERE empresa = 13059'
+2023-05-10 08:47:28: AS 2588: INFO: Integração com o módulo de pagamento QR LINX ativada!
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'select tipo_movto, grid from motivo_movto where not tipo_movto is null'
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'select * from ponto_config limit 1'
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'select * from config_geral'
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'select * from versao_estacao limit 0'
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='versao_estacao'::regclass"
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'select * from exchange_integracao_erp_config limit 0'
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='exchange_integracao_erp_config'::regclass"
+2023-05-10 08:47:28.667: DB: DEBUG: defcur_22508.execute: 'select iecw.endereco from exchange_integracao_erp_config iec join exchange_integracao_erp_config_ws iecw on (iecw.integracao_erp_config = iec.grid) where iec.empresa = 13059'
+2023-05-10 08:47:28.683: DB: DEBUG: defcur_22508.execute: 'select * from exc_reshop_config limit 0'
+2023-05-10 08:47:28.683: DB: DEBUG: defcur_22508.execute: "SELECT pg_attribute.attname FROM pg_class, pg_attribute, pg_index WHERE pg_class.oid = pg_attribute.attrelid AND pg_class.oid = pg_index.indrelid AND pg_index.indkey[0] = pg_attribute.attnum AND pg_index.indisprimary = 't' AND pg_class.oid='exc_reshop_config'::regclass"
+2023-05-10 08:47:28.683: DB: DEBUG: defcur_22508.execute: 'select * from exc_reshop_config where empresa=13059::int8'
+2023-05-10 08:47:28: AS 2588: INFO: Informações do banco de dados carregadas!
+2023-05-10 08:47:28.683: DB: DEBUG: defcur_22508.execute: 'select * from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s)'
+2023-05-10 08:47:28.683: DB: DEBUG: Cursores abertos inativos: [(6752, -1L, 'SUPORTE.WORKGROUP', <mx.DateTime.DateTime object for '2023-05-10 08:47:28,00' at 5199f00>, 'config_local', '3.3.1.47', 2588, None)] 
+2023-05-10 08:47:28.683: DB: DEBUG: defcur_22508.execute: 'delete from usuario_pid where pid not in (select pg_stat_get_backend_pid(s.backendid) from (select pg_stat_get_backend_idset() as backendid) s);'
+2023-05-10 08:47:28.683: DB: DEBUG: defcur_22508.execute: "select * from config where chave='horario_verao_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:28.808: DB: DEBUG: defcur_22508.execute: "select * from config where chave='ajuste_auto_horario_verao_desativado' and empresa=13059 and usuario is null and estacao='SUPORTE.WORKGROUP'"
+2023-05-10 08:47:28.808: DB: DEBUG: defcur_22508.execute: "select to_number(split_part(version(),' ',2),'9999')"
+2023-05-10 08:47:28.808: DB: DEBUG: defcur_22508.execute: "select true from pg_user where usename = 'postgres' and usesuper=true"
+2023-05-10 08:47:29.043: DB: DEBUG: defcur_22508.execute: 'select inet_server_addr()'
+2023-05-10 08:47:29.043: DB: DEBUG: defcur_22508.execute: "select grid from config where chave='horario_verao_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:29.043: DB: DEBUG: defcur_22508.execute: "update config set tipo='boolean', valor='FALSE' where grid='8589934597'"
+2023-05-10 08:47:29: AS 2588: INFO: Timezone do Banco já é GMT+3
+2023-05-10 08:47:29.043: DB: DEBUG: defcur_22508.execute: 'select now()'
+2023-05-10 08:47:29.099: DB: DEBUG: defcur_22508.execute: "select * from config where chave='paf_ativo' and empresa=13059 and usuario is null and estacao is null"
+2023-05-10 08:47:29: AS 2588: INFO: Utilizando versao PAF: NAO
+C:\Users\omega\OneDrive\Documentos\AUTOSYSTEM_VERSIONS\_47\autosystem\config_local.exe\lzt\lztgtk.py:9405: Warning: g_value_get_int: assertion 'G_VALUE_HOLDS_INT (value)' failed
+----------- LztDialog show 2023-05-10 08:47:39 -----------
+Configurações salvas com sucesso!
+Retorno: 1
+----------- LztDialog quit 2023-05-10 08:47:40 -----------
+2023-05-10 08:47:41: AS 2588: INFO: Modulo config_local finalizado
